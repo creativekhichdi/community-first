@@ -1,0 +1,256 @@
+/* ==================== ##General Styles ==================== */
+
+body {
+	font-family: $content_font_family;
+	font-size: $content_font_size;
+	line-height: $content_line_height;
+	font-weight: $content_font_weight;
+	color: $content_color;
+}
+
+/* ==================== ##End General Styles ==================== */
+
+/* ==================== ##Content Features ==================== */
+
+input:not([type=checkbox]):not([type=submit]),
+select, textarea,
+label,
+blockquote cite,
+#comments .commentlist .comment_info .meta-wrapper *,
+.meta-wrapper,
+.blog-post_info-wrap > .meta-wrapper *,
+.author-widget_text,
+.portfolio__custom-meta span,
+.blog-post.format-quote .blog-post_quote-author,
+.wgl_module_team .team-department,
+body .comment-form-cookies-consent > label,
+.widget_product_categories .post_count,
+.widget_meta .post_count,
+.widget_archive .post_count,
+.wgl-counter .wgl-counter_title,
+.elementor-widget-wgl-pricing-table .pricing_header .pricing_desc,
+.elementor-widget-wgl-time-line-vertical .time_line-content .time_line-text,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats,
+.wgl-working-hours .working-item .working-item_day,
+.wgl-working-hours .working-item .working-item_hours,
+.post_meta-categories a,
+.wgl-tabs_title,
+.prev-link_wrapper .info_wrapper .prev_title,
+.prev-link_wrapper .info_wrapper .next_title,
+.next-link_wrapper .info_wrapper .prev_title,
+.next-link_wrapper .info_wrapper .next_title,
+.portfolio__custom-meta h5,
+.page_404_wrapper .zikzag_404__link {
+	font-family: $content_font_family;
+}
+.elementor-widget-wgl-time-line-vertical .time_line-content .time_line-text {
+	font-weight: $content_font_weight;
+}
+
+::placeholder,
+select,
+body .footer .select__field:before,
+.widget_rss .rssSummary,
+.header_search.search_standard .header_search-field .search-field,
+.search-no-results .page_404_wrapper .search-form .search-field,
+.blog-post.format-quote .blog-post_quote-author-pos,
+.wgl_module_team .team-department,
+.blog-style-hero .blog-post.format-standard .blog-post_text,
+.blog-style-hero .blog-post.format-link .blog-post_text,
+.blog-style-hero .blog-post.format-audio .blog-post_text,
+.blog-style-hero .blog-post.format-quote .blog-post_text,
+.tagcloud a,
+.wp-block-tag-cloud a {
+	color: $content_color;
+}
+
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_info-share_social-wpapper > span {
+	font-family: $content_font_family;
+	color: $content_color;
+}
+
+/* ==================== ##End Content Features ==================== */
+
+/* ==================== ##Heading Features ==================== */
+
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+body ol > li:before,
+.blog-post_cats,
+.blog-posts .blog-post_title,
+.column1 .item_title a,
+.zikzag_twitter .twitt_title,
+.tagcloud-wrapper .title_tags,
+.strip_template .strip-item a span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.shortcode_tab_item_title,
+.index_number,
+.primary-nav.footer-menu .menu-item a{
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+.theme-header-font,
+legend,
+.widget .widget-title,
+.banner_404,
+.blog-post_text-bg,
+.author-info_content .author-info_name,
+.comments-title .number-comments,
+.post_meta-categories,
+.wgl-pricing_plan .pricing_price .price_decimal,
+.mashsb-count .counts,
+.mashsb-box .mashsb-buttons a .text,
+.prev-link, .next-link,
+.heading_subtitle,
+.info_prev-link_wrapper a, .info_next-link_wrapper a,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.wgl-portfolio-item_cats,
+body .comment-respond .comment-reply-title,
+.page-header_title,
+[class|=dropcap], .elementor-drop-cap,
+.elementor-counter,
+.wgl-counter .wgl-counter_value-wrap,
+.post_date span {
+	font-family: $header_font_family;
+}
+
+blockquote,
+.banner_404,
+.author-info_public,
+.wgl-portfolio-single_item .tagcloud .tagcloud_desc,
+.wgl-portfolio-single_item .single_info-share_social-wpapper .share_title {
+	font-family: $header_font_family;
+	color: $header_font_color;
+}
+
+.countdown-section .countdown-amount,
+.wgl-infobox_bg_title,
+.wgl-background-text,
+.elementor-section.wgl-add-background-text:before,
+.wgl-pie_chart .chart {
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+.theme-header-color,
+body .footer select option,
+button,
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.blog-style-hero .blog-post_title a,
+.blog-post_title a:hover,
+h3#reply-title a,
+.calendar_wrap tbody,
+.comment_author_says, .comment_author_says a,
+.search-field,
+.share_post-container:hover > a,
+.wgl-pagination .page .current,
+.wgl-pagination .page .prev, .wgl-pagination .page .next,
+.wgl-pagination .page-numbers:hover,
+.page-link .post-page-numbers,
+.share_post-container .share_post,
+.tagcloud-wrapper .title_tags,
+.wgl-pricing_plan .pricing_plan_wrap .pricing_content > ul > li > b,
+.prev-link-info_wrapper, .next-link-info_wrapper,
+.item_title a,
+.coming-soon_form .wpcf7 .wpcf7-submit:hover,
+.wpcf7 .dark-form .wpcf7-submit:hover, .wpcf7 .dark-form ~ * .wpcf7-submit:hover,
+.wgl_module_title.item_title .carousel_arrows a span:after,
+.wgl_module_team.info_under_image .team-department,
+.single-team .single_team_page .team-info_item h5,
+.wgl-portfolio-item_wrapper .portfolio_link,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li a,
+ul.wp-block-latest-posts li a,
+.blog-style-hero .blog-post.format-standard .blog-post_title a,
+.blog-style-hero .blog-post.format-link .blog-post_title a,
+.blog-style-hero .blog-post.format-audio .blog-post_title a,
+.blog-style-hero .blog-post.format-quote .blog-post_title a,
+.wgl-pagination .page-numbers,
+.wgl-button,
+.author-info_social-wrapper .author-info_social-link.fa,
+.page_404_wrapper .search-form:after,
+.wgl-portfolio-single_wrapper .portfolio__item-meta > span:after,
+.portfolio__see-more i,
+.wgl-header-row-section_top a:hover,
+.header_search.search_standard .header_search-field .search-form:after,
+.single_info-share_social-wpapper .share_social-title,
+.load_more_item{
+	color: $header_font_color;
+}
+
+/* ↓ widgets ↓ */
+.author-widget_social a,
+.widget ul li,
+.widget ul li a,
+ul.recent-posts-widget .post_title a,
+.widget .widget-title .widget-title_wrapper,
+.widget_search .search-form:after,
+.widget_search .woocommerce-product-search:after,
+.widget_product_search .search-form:after,
+.widget_product_search .woocommerce-product-search:after,
+.widget_product_search .woocommerce-product-search:after,
+.widget .banner-widget_button {
+	color: $header_font_color;
+}
+
+/* ==================== ##End Heading Features ==================== */
+
+/* ==================== ##Additional Styles ==================== */
+
+.wgl-portfolio-item_wrapper.gallery_type:hover .overlay {
+	background-color: rgba($rgb_h_font_color, 0.6);
+}
+
+/* ↓ menu fonts ↓ */
+.primary-nav > div > ul,
+.primary-nav > ul,
+.sitepress_container > .wpml-ls li,
+.primary-nav ul li.mega-menu-links > ul > li {
+	font-family: $menu_font_family;
+	font-weight: $menu_font_weight;
+	line-height: $menu_font_line_height;
+	font-size: $menu_font_size;
+}
+
+/* ↓ sub menu styles ↓ */
+.primary-nav ul li ul,
+.wpml-ls,
+.sitepress_container > .wpml-ls ul ul li,
+.primary-nav ul li div.mega-menu-container {
+	font-family: $sub_menu_font_family;
+	font-weight: $sub_menu_font_weight;
+	line-height: $sub_menu_font_line_height;
+	font-size: $sub_menu_font_size;
+}
+.wgl-theme-header .header_search-field,
+.primary-nav ul li ul,
+.primary-nav ul li div.mega-menu-container,
+.wgl-theme-header .woo_mini_cart,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu {
+	background-color: $sub_menu_bg;
+	color: $sub_menu_color;
+}
+.mobile_nav_wrapper,
+.wgl-menu_outer,
+.wgl-menu_outer .mobile-hamburger-close,
+.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul {
+	background-color: $mobile_sub_menu_bg;
+	color: $mobile_sub_menu_color;
+}
+.mobile_nav_wrapper .wgl-menu_overlay {
+	background-color: $mobile_sub_menu_overlay;
+}
+/* ↑ sub menu styles ↑ */
+
+#side-panel .side-panel_sidebar .widget .widget-title .widget-title_wrapper {
+	color: $side_panel_title;
+}
+
+/* ==================== ##End Additional Styles ==================== */

@@ -1,0 +1,7131 @@
+# Copyright (C) 2022 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-02 08:01+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: zikzag/404.php:26
+msgid "404"
+msgstr ""
+
+#: zikzag/404.php:27
+msgid "Sorry We Can't Find That Page!"
+msgstr ""
+
+#: zikzag/404.php:28
+msgid "The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: zikzag/404.php:34, zikzag/search.php:80
+msgid "Take Me Home"
+msgstr ""
+
+#: zikzag/category.php:26
+msgid "Category:"
+msgstr ""
+
+#: zikzag/comments.php:41
+msgctxt "comments title"
+msgid "Comments<span class=\"number-comments\">(%1$s)</span>"
+msgid_plural "Comments<span class=\"number-comments\">(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: zikzag/comments.php:37
+msgctxt "comments title"
+msgid "Comment<span class=\"number-comments\">(01)</span>"
+msgstr ""
+
+#: zikzag/comments.php:72, zikzag/comments.php:72
+msgid "Name *"
+msgstr ""
+
+#: zikzag/comments.php:73, zikzag/comments.php:73
+msgid "Email *"
+msgstr ""
+
+#: zikzag/comments.php:74, zikzag/comments.php:74
+msgid "Website"
+msgstr ""
+
+#: zikzag/comments.php:76
+msgid "Your Comment"
+msgstr ""
+
+#: zikzag/functions.php:294, zikzag/core/includes/redux/redux-config.php:164
+msgid "BACK TO TOP"
+msgstr ""
+
+#: zikzag/functions.php:316
+msgid "Dropcap"
+msgstr ""
+
+#: zikzag/functions.php:319
+msgid "Primary style"
+msgstr ""
+
+#: zikzag/functions.php:323
+msgid "Secondary style"
+msgstr ""
+
+#: zikzag/functions.php:330
+msgid "Highlighter"
+msgstr ""
+
+#: zikzag/functions.php:333
+msgid "Primary color"
+msgstr ""
+
+#: zikzag/functions.php:337
+msgid "Secondary color"
+msgstr ""
+
+#: zikzag/functions.php:344
+msgid "Font Weight"
+msgstr ""
+
+#: zikzag/functions.php:347, zikzag/core/class/dynamic-styles.php:302, zikzag/core/includes/metabox/metabox-config.php:117, zikzag/core/includes/metabox/metabox-config.php:207, zikzag/core/includes/metabox/metabox-config.php:219, zikzag/core/includes/metabox/metabox-config.php:231, zikzag/core/includes/metabox/metabox-config.php:243, zikzag/core/includes/metabox/metabox-config.php:267, zikzag/core/includes/metabox/metabox-config.php:316, zikzag/core/includes/metabox/metabox-config.php:418, zikzag/core/includes/metabox/metabox-config.php:483, zikzag/core/includes/metabox/metabox-config.php:661, zikzag/core/includes/metabox/metabox-config.php:862, zikzag/core/includes/metabox/metabox-config.php:968, zikzag/core/includes/metabox/metabox-config.php:1014, zikzag/core/includes/metabox/metabox-config.php:1076, zikzag/core/includes/metabox/metabox-config.php:1492, zikzag/core/includes/metabox/metabox-config.php:1666, zikzag/core/includes/metabox/metabox-config.php:1801, zikzag/core/includes/redux/redux-config.php:3738, zikzag/core/includes/redux/redux-config.php:3922, zikzag/core/includes/redux/redux-config.php:4026, zikzag/core/includes/redux/redux-config.php:4056, zikzag/core/includes/redux/redux-config.php:4375, zikzag/core/includes/redux/redux-config.php:4519, zikzag/core/includes/redux/redux-config.php:4755, zikzag/core/includes/redux/redux-config.php:4846, zikzag/core/includes/redux/redux-config.php:5141, zikzag/core/includes/redux/redux-config.php:5747, zikzag/core/includes/redux/redux-config.php:5830, zikzag/core/includes/redux/redux-config.php:5986
+msgid "Default"
+msgstr ""
+
+#: zikzag/functions.php:351
+msgid "Lightest (100)"
+msgstr ""
+
+#: zikzag/functions.php:355
+msgid "Lighter (200)"
+msgstr ""
+
+#: zikzag/functions.php:359
+msgid "Light (300)"
+msgstr ""
+
+#: zikzag/functions.php:363
+msgid "Normal (400)"
+msgstr ""
+
+#: zikzag/functions.php:367
+msgid "Medium (500)"
+msgstr ""
+
+#: zikzag/functions.php:371
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: zikzag/functions.php:375
+msgid "Bold (700)"
+msgstr ""
+
+#: zikzag/functions.php:379
+msgid "Bolder (800)"
+msgstr ""
+
+#: zikzag/functions.php:383
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: zikzag/functions.php:390
+msgid "List Style"
+msgstr ""
+
+#: zikzag/functions.php:393
+msgid "Dot, primary color"
+msgstr ""
+
+#: zikzag/functions.php:397
+msgid "Dot, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:401
+msgid "Check, primary color"
+msgstr ""
+
+#: zikzag/functions.php:405
+msgid "Check, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:409
+msgid "Plus, primary color"
+msgstr ""
+
+#: zikzag/functions.php:413
+msgid "Plus, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:417
+msgid "Hyphen, primary color"
+msgstr ""
+
+#: zikzag/functions.php:421
+msgid "Hyphen, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:425
+msgid "Arrow Top, primary color"
+msgstr ""
+
+#: zikzag/functions.php:429
+msgid "Arrow Top, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:433
+msgid "Arrow Bottom, primary color"
+msgstr ""
+
+#: zikzag/functions.php:437
+msgid "Arrow Bottom, secondary color"
+msgstr ""
+
+#: zikzag/functions.php:441
+msgid "No List Style"
+msgstr ""
+
+#: zikzag/image.php:84
+msgid "Pages:"
+msgstr ""
+
+#: zikzag/page.php:30, zikzag/template-full-width.php:17
+msgid "Read more!"
+msgstr ""
+
+#: zikzag/page.php:31, zikzag/template-full-width.php:18, zikzag/templates/post/post-hero.php:187, zikzag/templates/post/post-hero.php:264, zikzag/templates/post/post-standard.php:150, zikzag/templates/post/single/post-1.php:58, zikzag/templates/post/single/post-2.php:58, zikzag/templates/post/single/post-3.php:36
+msgid "Pages"
+msgstr ""
+
+#: zikzag/search.php:67
+msgid "Nothing Found"
+msgstr ""
+
+#: zikzag/search.php:74
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: zikzag/search.php:72
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: zikzag/search.php:29
+msgid "Search Results for: %s"
+msgstr ""
+
+#: zikzag/search.php:52
+msgid "Learn More"
+msgstr ""
+
+#: zikzag/searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: zikzag/searchform.php:17, zikzag/templates/header/section-page_title.php:150, zikzag/core/includes/redux/redux-config.php:460, zikzag/core/includes/redux/redux-config.php:480, zikzag/core/includes/redux/redux-config.php:2818, zikzag/core/includes/redux/redux-config.php:2830, zikzag/core/includes/redux/redux-config.php:2849, zikzag/core/includes/redux/redux-config.php:2857
+msgid "Search"
+msgstr ""
+
+#: zikzag/single.php:113, zikzag/core/includes/metabox/metabox-config.php:681, zikzag/core/includes/redux/redux-config.php:4180, zikzag/core/includes/redux/redux-config.php:4187, zikzag/core/includes/redux/redux-config.php:4635, zikzag/core/includes/redux/redux-config.php:4642
+msgid "Related Posts"
+msgstr ""
+
+#: zikzag/single.php:130, zikzag/templates/post/post-hero.php:43, zikzag/templates/post/post-medium_img.php:44, zikzag/templates/post/post-standard.php:32
+msgid "Read More"
+msgstr ""
+
+#: zikzag/single.php:135, zikzag/core/class/theme-helper.php:415
+msgid "Load More"
+msgstr ""
+
+#: zikzag/template-full-width.php:3
+msgid "Full Width Page"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:41
+msgid "Home"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:42
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:43
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:44
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:45
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:46
+msgid "Error 404"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:47
+msgid "Page %s"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:48
+msgid "Comment Page %s"
+msgstr ""
+
+#: zikzag/templates/breadcrumbs.php:180, zikzag/templates/breadcrumbs.php:172, zikzag/core/includes/redux/redux-config.php:4234
+msgid "Portfolio"
+msgstr ""
+
+#: zikzag/woocommerce/content-widget-reviews.php:46
+msgid "by %s"
+msgstr ""
+
+#: zikzag/woocommerce/product-searchform.php:18
+msgid "Search for:"
+msgstr ""
+
+#: zikzag/woocommerce/product-searchform.php:19
+msgid "Search products&hellip;"
+msgstr ""
+
+#: zikzag/woocommerce/product-searchform.php:20, zikzag/woocommerce/product-searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:232
+msgid "verified owner"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:211
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:250
+msgid "Add a review"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:250
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:251
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:257, zikzag/core/includes/metabox/metabox-config.php:62, zikzag/core/includes/metabox/metabox-config.php:182
+msgid "Name"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:259
+msgid "Email"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:261
+msgid "Submit"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:272
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:276
+msgid "Your rating"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:277
+msgid "Rate&hellip;"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:278
+msgid "Perfect"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:279
+msgid "Good"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:280
+msgid "Average"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:281
+msgid "Not that bad"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:282
+msgid "Very poor"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:286
+msgid "Your review"
+msgstr ""
+
+#: zikzag/woocommerce/woocommerce-init.php:590
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:300
+msgid "Clear"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:301
+msgid "Clear color"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:303
+msgid "Select default color"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:304
+msgid "Select"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:305
+msgid "Color value"
+msgstr ""
+
+#: zikzag/core/class/dynamic-styles.php:334, zikzag/core/class/theme-verify.php:213, zikzag/core/class/theme-verify.php:332
+msgid "Thank you, your license has been validated"
+msgstr ""
+
+#: zikzag/core/class/single-post.php:806
+msgid "by "
+msgstr ""
+
+#: zikzag/core/class/single-post.php:816
+msgid "Leave a reply"
+msgstr ""
+
+#: zikzag/core/class/single-post.php:819
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: zikzag/core/class/single-post.php:896
+msgid "Total Views"
+msgstr ""
+
+#: zikzag/core/class/single-post.php:897
+msgid "View"
+msgid_plural "Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: zikzag/core/class/single-post.php:944
+msgid "About"
+msgstr ""
+
+#: zikzag/core/class/theme-cat-meta.php:58, zikzag/core/class/theme-cat-meta.php:76, zikzag/core/class/theme-cat-meta.php:94, zikzag/core/class/theme-cat-meta.php:118
+msgid "Icon Image"
+msgstr ""
+
+#: zikzag/core/class/theme-cat-meta.php:62, zikzag/core/class/theme-cat-meta.php:80, zikzag/core/class/theme-cat-meta.php:105, zikzag/core/class/theme-cat-meta.php:129
+msgid "Add Image"
+msgstr ""
+
+#: zikzag/core/class/theme-cat-meta.php:63, zikzag/core/class/theme-cat-meta.php:81, zikzag/core/class/theme-cat-meta.php:106, zikzag/core/class/theme-cat-meta.php:130
+msgid "Remove Image"
+msgstr ""
+
+#: zikzag/core/class/theme-helper.php:565
+msgid "Published in"
+msgstr ""
+
+#: zikzag/core/class/theme-helper.php:584
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: zikzag/core/class/theme-helper.php:601
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:61, zikzag/core/class/theme-panel.php:62
+msgid "WebGeniusLab"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:71, zikzag/core/class/theme-panel.php:72
+msgid "Welcome"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:80, zikzag/core/class/theme-panel.php:81
+msgid "Theme Plugins"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:90, zikzag/core/class/theme-panel.php:91
+msgid "Requirements"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:99, zikzag/core/class/theme-panel.php:100
+msgid "Activate Theme"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:107, zikzag/core/class/theme-panel.php:108
+msgid "Help Center"
+msgstr ""
+
+#: zikzag/core/class/theme-panel.php:115, zikzag/core/class/theme-panel.php:116, zikzag/core/includes/redux/redux-config.php:44, zikzag/core/includes/redux/redux-config.php:45
+msgid "Theme Options"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:50
+msgid "Main menu"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:75
+msgid "Add widget here to appear it in custom sidebar."
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:87
+msgid "Footer Column 1"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:90
+msgid "Footer Column 2"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:93
+msgid "Footer Column 3"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:96
+msgid "Footer Column 4"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:105
+msgid "This area will display in footer like a column. Add widget here to appear it in footer column."
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:115
+msgid "Shop Products"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:118
+msgid "Shop Single"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:121
+msgid "Shop Filter"
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:129
+msgid "This sidebar will display in WooCommerce Pages."
+msgstr ""
+
+#: zikzag/core/class/theme-support.php:139, zikzag/core/includes/metabox/metabox-config.php:1483, zikzag/core/includes/metabox/metabox-config.php:1488, zikzag/core/includes/redux/redux-config.php:357, zikzag/core/includes/redux/redux-config.php:372, zikzag/core/includes/redux/redux-config.php:4936, zikzag/core/includes/redux/redux-config.php:4943
+msgid "Side Panel"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:102
+msgid " Theme is not activated! Please activate your copy of the %s theme"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:106
+msgid "Please activate the theme!"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:108
+msgid "Activate Now"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:153
+msgid "<strong>Your support period will be expired after %d days. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:151
+msgid "<strong>Your support period expired. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:163
+msgid "Remind me later"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:164
+msgid "Hide and disable further reminders"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:187
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:194
+msgid "Purchase code is empty "
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:177
+msgid "Please enter a valid field"
+msgstr ""
+
+#: zikzag/core/class/theme-verify.php:271
+msgid "Success"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:72
+msgid "Arrow Next"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:73
+msgid "500px"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:74
+msgid "accessible-icon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:75
+msgid "accusoft"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:76, zikzag/core/class/tinymce-icon.php:77
+msgid "address-book"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:78, zikzag/core/class/tinymce-icon.php:79
+msgid "address-card"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:80
+msgid "adjust"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:81
+msgid "adn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:82
+msgid "adversal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:83
+msgid "affiliatetheme"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:84
+msgid "algolia"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:85
+msgid "align-center"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:86
+msgid "align-justify"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:87
+msgid "align-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:88
+msgid "align-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:89
+msgid "allergies"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:90
+msgid "amazon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:91
+msgid "amazon-pay"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:92
+msgid "ambulance"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:93
+msgid "american-sign-language-interpreting"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:94
+msgid "amilia"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:95
+msgid "anchor"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:96
+msgid "android"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:97
+msgid "angellist"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:98
+msgid "angle-double-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:99
+msgid "angle-double-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:100
+msgid "angle-double-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:101
+msgid "angle-double-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:102
+msgid "angle-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:103
+msgid "angle-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:104
+msgid "angle-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:105
+msgid "angle-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:106
+msgid "angrycreative"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:107
+msgid "angular"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:108
+msgid "app-store"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:109
+msgid "app-store-ios"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:110
+msgid "apper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:111
+msgid "apple"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:112
+msgid "apple-pay"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:113
+msgid "archive"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:114, zikzag/core/class/tinymce-icon.php:115
+msgid "arrow-alt-circle-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:116, zikzag/core/class/tinymce-icon.php:117
+msgid "arrow-alt-circle-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:118, zikzag/core/class/tinymce-icon.php:119
+msgid "arrow-alt-circle-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:120, zikzag/core/class/tinymce-icon.php:121
+msgid "arrow-alt-circle-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:122
+msgid "arrow-circle-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:123
+msgid "arrow-circle-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:124
+msgid "arrow-circle-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:125
+msgid "arrow-circle-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:126
+msgid "arrow-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:127
+msgid "arrow-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:128
+msgid "arrow-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:129
+msgid "arrow-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:130
+msgid "arrows-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:131
+msgid "arrows-alt-h"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:132
+msgid "arrows-alt-v"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:133
+msgid "assistive-listening-systems"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:134
+msgid "asterisk"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:135
+msgid "asymmetrik"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:136
+msgid "at"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:137
+msgid "audible"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:138
+msgid "audio-description"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:139
+msgid "autoprefixer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:140
+msgid "avianex"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:141
+msgid "aviato"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:142
+msgid "aws"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:143
+msgid "backward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:144
+msgid "balance-scale"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:145
+msgid "ban"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:146
+msgid "band-aid"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:147
+msgid "bandcamp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:148
+msgid "barcode"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:149
+msgid "bars"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:150
+msgid "baseball-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:151
+msgid "basketball-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:152
+msgid "bath"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:153
+msgid "battery-empty"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:154
+msgid "battery-full"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:155
+msgid "battery-half"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:156
+msgid "battery-quarter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:157
+msgid "battery-three-quarters"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:158
+msgid "bed"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:159
+msgid "beer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:160
+msgid "behance"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:161
+msgid "behance-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:162, zikzag/core/class/tinymce-icon.php:163
+msgid "bell"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:164, zikzag/core/class/tinymce-icon.php:165
+msgid "bell-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:166
+msgid "bicycle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:167
+msgid "bimobject"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:168
+msgid "binoculars"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:169
+msgid "birthday-cake"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:170
+msgid "bitbucket"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:171
+msgid "bitcoin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:172
+msgid "bity"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:173
+msgid "black-tie"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:174
+msgid "blackberry"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:175
+msgid "blind"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:176
+msgid "blogger"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:177
+msgid "blogger-b"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:178
+msgid "bluetooth"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:179
+msgid "bluetooth-b"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:180
+msgid "bold"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:181
+msgid "bolt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:182
+msgid "bomb"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:183
+msgid "book"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:184, zikzag/core/class/tinymce-icon.php:185
+msgid "bookmark"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:186
+msgid "bowling-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:187
+msgid "box"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:188
+msgid "box-open"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:189
+msgid "boxes"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:190
+msgid "braille"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:191
+msgid "briefcase"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:192
+msgid "briefcase-medical"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:193
+msgid "btc"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:194
+msgid "bug"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:195, zikzag/core/class/tinymce-icon.php:196
+msgid "building"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:197
+msgid "bullhorn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:198
+msgid "bullseye"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:199
+msgid "burn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:200
+msgid "buromobelexperte"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:201
+msgid "bus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:202
+msgid "buysellads"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:203
+msgid "calculator"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:204, zikzag/core/class/tinymce-icon.php:205
+msgid "calendar"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:206, zikzag/core/class/tinymce-icon.php:207
+msgid "calendar-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:208, zikzag/core/class/tinymce-icon.php:209
+msgid "calendar-check"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:210, zikzag/core/class/tinymce-icon.php:211
+msgid "calendar-minus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:212, zikzag/core/class/tinymce-icon.php:213
+msgid "calendar-plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:214, zikzag/core/class/tinymce-icon.php:215
+msgid "calendar-times"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:216
+msgid "camera"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:217
+msgid "camera-retro"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:218
+msgid "capsules"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:219
+msgid "car"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:220
+msgid "caret-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:221
+msgid "caret-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:222
+msgid "caret-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:223, zikzag/core/class/tinymce-icon.php:224
+msgid "caret-square-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:225, zikzag/core/class/tinymce-icon.php:226
+msgid "caret-square-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:227, zikzag/core/class/tinymce-icon.php:228
+msgid "caret-square-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:229, zikzag/core/class/tinymce-icon.php:230
+msgid "caret-square-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:231
+msgid "caret-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:232
+msgid "cart-arrow-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:233
+msgid "cart-plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:234
+msgid "cc-amazon-pay"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:235
+msgid "cc-amex"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:236
+msgid "cc-apple-pay"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:237
+msgid "cc-diners-club"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:238
+msgid "cc-discover"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:239
+msgid "cc-jcb"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:240
+msgid "cc-mastercard"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:241
+msgid "cc-paypal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:242
+msgid "cc-stripe"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:243
+msgid "cc-visa"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:244
+msgid "centercode"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:245
+msgid "certificate"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:246
+msgid "chart-area"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:247, zikzag/core/class/tinymce-icon.php:248
+msgid "chart-bar"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:249
+msgid "chart-line"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:250
+msgid "chart-pie"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:251
+msgid "check"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:252, zikzag/core/class/tinymce-icon.php:253
+msgid "check-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:254, zikzag/core/class/tinymce-icon.php:255
+msgid "check-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:256
+msgid "chess"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:257
+msgid "chess-bishop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:258
+msgid "chess-board"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:259
+msgid "chess-king"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:260
+msgid "chess-knight"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:261
+msgid "chess-pawn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:262
+msgid "chess-queen"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:263
+msgid "chess-rook"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:264
+msgid "chevron-circle-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:265
+msgid "chevron-circle-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:266
+msgid "chevron-circle-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:267
+msgid "chevron-circle-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:268
+msgid "chevron-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:269
+msgid "chevron-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:270
+msgid "chevron-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:271
+msgid "chevron-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:272
+msgid "child"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:273
+msgid "chrome"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:274, zikzag/core/class/tinymce-icon.php:275
+msgid "circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:276
+msgid "circle-notch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:277, zikzag/core/class/tinymce-icon.php:278
+msgid "clipboard"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:279
+msgid "clipboard-check"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:280
+msgid "clipboard-list"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:281, zikzag/core/class/tinymce-icon.php:282
+msgid "clock"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:283, zikzag/core/class/tinymce-icon.php:284
+msgid "clone"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:285, zikzag/core/class/tinymce-icon.php:286
+msgid "closed-captioning"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:287
+msgid "cloud"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:288
+msgid "cloud-download-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:289
+msgid "cloud-upload-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:290
+msgid "cloudscale"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:291
+msgid "cloudsmith"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:292
+msgid "cloudversify"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:293
+msgid "code"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:294
+msgid "code-branch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:295
+msgid "codepen"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:296
+msgid "codiepie"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:297
+msgid "coffee"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:298
+msgid "cog"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:299
+msgid "cogs"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:300
+msgid "columns"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:301, zikzag/core/class/tinymce-icon.php:302
+msgid "comment"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:303, zikzag/core/class/tinymce-icon.php:304
+msgid "comment-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:305
+msgid "comment-dots"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:306
+msgid "comment-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:307, zikzag/core/class/tinymce-icon.php:308
+msgid "comments"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:309, zikzag/core/class/tinymce-icon.php:310
+msgid "compass"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:311
+msgid "compress"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:312
+msgid "connectdevelop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:313
+msgid "contao"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:314, zikzag/core/class/tinymce-icon.php:315
+msgid "copy"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:316, zikzag/core/class/tinymce-icon.php:317
+msgid "copyright"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:318
+msgid "couch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:319
+msgid "cpanel"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:320
+msgid "creative-commons"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:321, zikzag/core/class/tinymce-icon.php:322
+msgid "credit-card"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:323
+msgid "crop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:324
+msgid "crosshairs"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:325
+msgid "css3"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:326
+msgid "css3-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:327
+msgid "cube"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:328
+msgid "cubes"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:329
+msgid "cut"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:330
+msgid "cuttlefish"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:331
+msgid "d-and-d"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:332
+msgid "dashcube"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:333
+msgid "database"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:334
+msgid "deaf"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:335
+msgid "delicious"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:336
+msgid "deploydog"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:337
+msgid "deskpro"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:338
+msgid "desktop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:339
+msgid "deviantart"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:340
+msgid "diagnoses"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:341
+msgid "digg"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:342
+msgid "digital-ocean"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:343
+msgid "discord"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:344
+msgid "discourse"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:345
+msgid "dna"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:346
+msgid "dochub"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:347
+msgid "docker"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:348
+msgid "dollar-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:349
+msgid "dolly"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:350
+msgid "dolly-flatbed"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:351
+msgid "donate"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:352, zikzag/core/class/tinymce-icon.php:353
+msgid "dot-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:354
+msgid "dove"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:355
+msgid "download"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:356
+msgid "draft2digital"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:357
+msgid "dribbble"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:358
+msgid "dribbble-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:359
+msgid "dropbox"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:360
+msgid "drupal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:361
+msgid "dyalog"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:362
+msgid "earlybirds"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:363
+msgid "edge"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:364, zikzag/core/class/tinymce-icon.php:365
+msgid "edit"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:366
+msgid "eject"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:367
+msgid "elementor"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:368
+msgid "ellipsis-h"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:369
+msgid "ellipsis-v"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:370
+msgid "ember"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:371
+msgid "empire"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:372, zikzag/core/class/tinymce-icon.php:373
+msgid "envelope"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:374, zikzag/core/class/tinymce-icon.php:375
+msgid "envelope-open"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:376
+msgid "envelope-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:377
+msgid "envira"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:378
+msgid "eraser"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:379
+msgid "erlang"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:380
+msgid "ethereum"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:381
+msgid "etsy"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:382
+msgid "euro-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:383
+msgid "exchange-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:384
+msgid "exclamation"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:385
+msgid "exclamation-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:386
+msgid "exclamation-triangle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:387
+msgid "expand"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:388
+msgid "expand-arrows-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:389
+msgid "expeditedssl"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:390
+msgid "external-link-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:391
+msgid "external-link-square-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:392
+msgid "eye"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:393
+msgid "eye-dropper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:394, zikzag/core/class/tinymce-icon.php:395
+msgid "eye-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:396
+msgid "facebook"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:397
+msgid "facebook-f"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:398
+msgid "facebook-messenger"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:399
+msgid "facebook-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:400
+msgid "fast-backward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:401
+msgid "fast-forward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:402
+msgid "fax"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:403
+msgid "female"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:404
+msgid "fighter-jet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:405, zikzag/core/class/tinymce-icon.php:406
+msgid "file"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:407, zikzag/core/class/tinymce-icon.php:408
+msgid "file-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:409, zikzag/core/class/tinymce-icon.php:410
+msgid "file-archive"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:411, zikzag/core/class/tinymce-icon.php:412
+msgid "file-audio"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:413, zikzag/core/class/tinymce-icon.php:414
+msgid "file-code"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:415, zikzag/core/class/tinymce-icon.php:416
+msgid "file-excel"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:417, zikzag/core/class/tinymce-icon.php:418
+msgid "file-image"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:419
+msgid "file-medical"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:420
+msgid "file-medical-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:421, zikzag/core/class/tinymce-icon.php:422
+msgid "file-pdf"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:423, zikzag/core/class/tinymce-icon.php:424
+msgid "file-powerpoint"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:425, zikzag/core/class/tinymce-icon.php:426
+msgid "file-video"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:427, zikzag/core/class/tinymce-icon.php:428
+msgid "file-word"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:429
+msgid "film"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:430
+msgid "filter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:431
+msgid "fire"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:432
+msgid "fire-extinguisher"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:433
+msgid "firefox"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:434
+msgid "first-aid"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:435
+msgid "first-order"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:436
+msgid "firstdraft"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:437, zikzag/core/class/tinymce-icon.php:438
+msgid "flag"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:439
+msgid "flag-checkered"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:440
+msgid "flask"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:441
+msgid "flickr"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:442
+msgid "flipboard"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:443
+msgid "fly"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:444, zikzag/core/class/tinymce-icon.php:445
+msgid "folder"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:446, zikzag/core/class/tinymce-icon.php:447
+msgid "folder-open"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:448
+msgid "font"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:449
+msgid "font-awesome"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:450
+msgid "font-awesome-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:451
+msgid "font-awesome-flag"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:452
+msgid "fonticons"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:453
+msgid "fonticons-fi"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:454
+msgid "football-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:455
+msgid "fort-awesome"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:456
+msgid "fort-awesome-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:457
+msgid "forumbee"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:458
+msgid "forward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:459
+msgid "foursquare"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:460
+msgid "free-code-camp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:461
+msgid "freebsd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:462, zikzag/core/class/tinymce-icon.php:463
+msgid "frown"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:464, zikzag/core/class/tinymce-icon.php:465
+msgid "futbol"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:466
+msgid "gamepad"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:467
+msgid "gavel"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:468, zikzag/core/class/tinymce-icon.php:469
+msgid "gem"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:470
+msgid "genderless"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:471
+msgid "get-pocket"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:472
+msgid "gg"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:473
+msgid "gg-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:474
+msgid "gift"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:475
+msgid "git"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:476
+msgid "git-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:477
+msgid "github"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:478
+msgid "github-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:479
+msgid "github-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:480
+msgid "gitkraken"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:481
+msgid "gitlab"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:482
+msgid "gitter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:483
+msgid "glass-martini"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:484
+msgid "glide"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:485
+msgid "glide-g"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:486
+msgid "globe"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:487
+msgid "gofore"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:488
+msgid "golf-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:489
+msgid "goodreads"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:490
+msgid "goodreads-g"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:491
+msgid "google"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:492
+msgid "google-drive"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:493
+msgid "google-play"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:494
+msgid "google-plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:495
+msgid "google-plus-g"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:496
+msgid "google-plus-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:497
+msgid "google-wallet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:498
+msgid "graduation-cap"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:499
+msgid "gratipay"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:500
+msgid "grav"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:501
+msgid "gripfire"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:502
+msgid "grunt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:503
+msgid "gulp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:504
+msgid "h-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:505
+msgid "hacker-news"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:506
+msgid "hacker-news-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:507
+msgid "hand-holding"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:508
+msgid "hand-holding-heart"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:509
+msgid "hand-holding-usd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:510, zikzag/core/class/tinymce-icon.php:511
+msgid "hand-lizard"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:512, zikzag/core/class/tinymce-icon.php:513
+msgid "hand-paper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:514, zikzag/core/class/tinymce-icon.php:515
+msgid "hand-peace"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:516, zikzag/core/class/tinymce-icon.php:517
+msgid "hand-point-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:518, zikzag/core/class/tinymce-icon.php:519
+msgid "hand-point-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:520, zikzag/core/class/tinymce-icon.php:521
+msgid "hand-point-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:522, zikzag/core/class/tinymce-icon.php:523
+msgid "hand-point-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:524, zikzag/core/class/tinymce-icon.php:525
+msgid "hand-pointer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:526, zikzag/core/class/tinymce-icon.php:527
+msgid "hand-rock"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:528, zikzag/core/class/tinymce-icon.php:529
+msgid "hand-scissors"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:530, zikzag/core/class/tinymce-icon.php:531
+msgid "hand-spock"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:532
+msgid "hands"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:533
+msgid "hands-helping"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:534, zikzag/core/class/tinymce-icon.php:535
+msgid "handshake"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:536
+msgid "hashtag"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:537, zikzag/core/class/tinymce-icon.php:538
+msgid "hdd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:539
+msgid "heading"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:540
+msgid "headphones"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:541, zikzag/core/class/tinymce-icon.php:542
+msgid "heart"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:543
+msgid "heartbeat"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:544
+msgid "hips"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:545
+msgid "hire-a-helper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:546
+msgid "history"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:547
+msgid "hockey-puck"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:548
+msgid "home"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:549
+msgid "hooli"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:550, zikzag/core/class/tinymce-icon.php:551
+msgid "hospital"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:552
+msgid "hospital-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:553
+msgid "hospital-symbol"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:554
+msgid "hotjar"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:555, zikzag/core/class/tinymce-icon.php:556
+msgid "hourglass"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:557
+msgid "hourglass-end"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:558
+msgid "hourglass-half"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:559
+msgid "hourglass-start"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:560
+msgid "houzz"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:561
+msgid "html5"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:562
+msgid "hubspot"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:563
+msgid "i-cursor"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:564, zikzag/core/class/tinymce-icon.php:565
+msgid "id-badge"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:566, zikzag/core/class/tinymce-icon.php:567
+msgid "id-card"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:568
+msgid "id-card-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:569, zikzag/core/class/tinymce-icon.php:570
+msgid "image"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:571, zikzag/core/class/tinymce-icon.php:572
+msgid "images"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:573
+msgid "imdb"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:574
+msgid "inbox"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:575
+msgid "indent"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:576
+msgid "industry"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:577
+msgid "info"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:578
+msgid "info-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:579
+msgid "instagram"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:580
+msgid "internet-explorer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:581
+msgid "ioxhost"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:582
+msgid "italic"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:583
+msgid "itunes"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:584
+msgid "itunes-note"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:585
+msgid "java"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:586
+msgid "jenkins"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:587
+msgid "joget"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:588
+msgid "joomla"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:589
+msgid "js"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:590
+msgid "js-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:591
+msgid "jsfiddle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:592
+msgid "key"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:593, zikzag/core/class/tinymce-icon.php:594
+msgid "keyboard"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:595
+msgid "keycdn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:596
+msgid "kickstarter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:597
+msgid "kickstarter-k"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:598
+msgid "korvue"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:599
+msgid "language"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:600
+msgid "laptop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:601
+msgid "laravel"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:602
+msgid "lastfm"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:603
+msgid "lastfm-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:604
+msgid "leaf"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:605
+msgid "leanpub"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:606, zikzag/core/class/tinymce-icon.php:607
+msgid "lemon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:608
+msgid "less"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:609
+msgid "level-down-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:610
+msgid "level-up-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:611, zikzag/core/class/tinymce-icon.php:612
+msgid "life-ring"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:613, zikzag/core/class/tinymce-icon.php:614
+msgid "lightbulb"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:615
+msgid "line"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:616
+msgid "link"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:617
+msgid "linkedin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:618
+msgid "linkedin-in"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:619
+msgid "linode"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:620
+msgid "linux"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:621
+msgid "lira-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:622
+msgid "list"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:623, zikzag/core/class/tinymce-icon.php:624
+msgid "list-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:625
+msgid "list-ol"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:626
+msgid "list-ul"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:627
+msgid "location-arrow"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:628
+msgid "lock"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:629
+msgid "lock-open"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:630
+msgid "long-arrow-alt-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:631
+msgid "long-arrow-alt-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:632
+msgid "long-arrow-alt-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:633
+msgid "long-arrow-alt-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:634
+msgid "low-vision"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:635
+msgid "lyft"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:636
+msgid "magento"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:637
+msgid "magic"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:638
+msgid "magnet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:639
+msgid "male"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:640, zikzag/core/class/tinymce-icon.php:641
+msgid "map"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:642
+msgid "map-marker"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:643
+msgid "map-marker-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:644
+msgid "map-pin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:645
+msgid "map-signs"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:646
+msgid "mars"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:647
+msgid "mars-double"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:648
+msgid "mars-stroke"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:649
+msgid "mars-stroke-h"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:650
+msgid "mars-stroke-v"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:651
+msgid "maxcdn"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:652
+msgid "medapps"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:653
+msgid "medium"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:654
+msgid "medium-m"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:655
+msgid "medkit"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:656
+msgid "medrt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:657
+msgid "meetup"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:658, zikzag/core/class/tinymce-icon.php:659
+msgid "meh"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:660
+msgid "mercury"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:661
+msgid "microchip"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:662
+msgid "microphone"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:663
+msgid "microphone-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:664
+msgid "microsoft"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:665
+msgid "minus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:666
+msgid "minus-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:667, zikzag/core/class/tinymce-icon.php:668
+msgid "minus-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:669
+msgid "mix"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:670
+msgid "mixcloud"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:671
+msgid "mizuni"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:672
+msgid "mobile"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:673
+msgid "mobile-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:674
+msgid "modx"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:675
+msgid "monero"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:676, zikzag/core/class/tinymce-icon.php:677
+msgid "money-bill-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:678, zikzag/core/class/tinymce-icon.php:679
+msgid "moon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:680
+msgid "motorcycle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:681
+msgid "mouse-pointer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:682
+msgid "music"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:683
+msgid "napster"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:684
+msgid "neuter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:685, zikzag/core/class/tinymce-icon.php:686
+msgid "newspaper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:687
+msgid "nintendo-switch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:688
+msgid "node"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:689
+msgid "node-js"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:690
+msgid "notes-medical"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:691
+msgid "npm"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:692
+msgid "ns8"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:693
+msgid "nutritionix"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:694, zikzag/core/class/tinymce-icon.php:695
+msgid "object-group"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:696, zikzag/core/class/tinymce-icon.php:697
+msgid "object-ungroup"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:698
+msgid "odnoklassniki"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:699
+msgid "odnoklassniki-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:700
+msgid "opencart"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:701
+msgid "openid"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:702
+msgid "opera"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:703
+msgid "optin-monster"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:704
+msgid "osi"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:705
+msgid "outdent"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:706
+msgid "page4"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:707
+msgid "pagelines"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:708
+msgid "paint-brush"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:709
+msgid "palfed"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:710
+msgid "pallet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:711, zikzag/core/class/tinymce-icon.php:712
+msgid "paper-plane"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:713
+msgid "paperclip"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:714
+msgid "parachute-box"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:715
+msgid "paragraph"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:716
+msgid "paste"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:717
+msgid "patreon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:718
+msgid "pause"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:719, zikzag/core/class/tinymce-icon.php:720
+msgid "pause-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:721
+msgid "paw"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:722
+msgid "paypal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:723
+msgid "pen-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:724
+msgid "pencil-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:725
+msgid "people-carry"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:726
+msgid "percent"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:727
+msgid "periscope"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:728
+msgid "phabricator"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:729
+msgid "phoenix-framework"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:730
+msgid "phone"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:731
+msgid "phone-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:732
+msgid "phone-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:733
+msgid "phone-volume"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:734
+msgid "php"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:735
+msgid "pied-piper"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:736
+msgid "pied-piper-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:737
+msgid "pied-piper-hat"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:738
+msgid "pied-piper-pp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:739
+msgid "piggy-bank"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:740
+msgid "pills"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:741
+msgid "pinterest"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:742
+msgid "pinterest-p"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:743
+msgid "pinterest-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:744
+msgid "plane"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:745
+msgid "play"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:746, zikzag/core/class/tinymce-icon.php:747
+msgid "play-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:748
+msgid "playstation"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:749
+msgid "plug"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:750
+msgid "plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:751
+msgid "plus-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:752, zikzag/core/class/tinymce-icon.php:753
+msgid "plus-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:754
+msgid "podcast"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:755
+msgid "poo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:756
+msgid "pound-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:757
+msgid "power-off"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:758
+msgid "prescription-bottle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:759
+msgid "prescription-bottle-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:760
+msgid "print"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:761
+msgid "procedures"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:762
+msgid "product-hunt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:763
+msgid "pushed"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:764
+msgid "puzzle-piece"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:765
+msgid "python"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:766
+msgid "qq"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:767
+msgid "qrcode"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:768
+msgid "question"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:769, zikzag/core/class/tinymce-icon.php:770
+msgid "question-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:771
+msgid "quidditch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:772
+msgid "quinscape"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:773
+msgid "quora"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:774
+msgid "quote-left"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:775
+msgid "quote-right"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:776
+msgid "random"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:777
+msgid "ravelry"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:778
+msgid "react"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:779
+msgid "readme"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:780
+msgid "rebel"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:781
+msgid "recycle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:782
+msgid "red-river"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:783
+msgid "reddit"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:784
+msgid "reddit-alien"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:785
+msgid "reddit-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:786
+msgid "redo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:787
+msgid "redo-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:788, zikzag/core/class/tinymce-icon.php:789
+msgid "registered"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:790
+msgid "rendact"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:791
+msgid "renren"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:792
+msgid "reply"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:793
+msgid "reply-all"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:794
+msgid "replyd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:795
+msgid "resolving"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:796
+msgid "retweet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:797
+msgid "ribbon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:798
+msgid "road"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:799
+msgid "rocket"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:800
+msgid "rocketchat"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:801
+msgid "rockrms"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:802
+msgid "rss"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:803
+msgid "rss-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:804
+msgid "ruble-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:805
+msgid "rupee-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:806
+msgid "safari"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:807
+msgid "sass"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:808, zikzag/core/class/tinymce-icon.php:809
+msgid "save"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:810
+msgid "schlix"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:811
+msgid "scribd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:812
+msgid "search"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:813
+msgid "search-minus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:814
+msgid "search-plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:815
+msgid "searchengin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:816
+msgid "seedling"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:817
+msgid "sellcast"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:818
+msgid "sellsy"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:819
+msgid "server"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:820
+msgid "servicestack"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:821
+msgid "share"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:822
+msgid "share-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:823
+msgid "share-alt-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:824, zikzag/core/class/tinymce-icon.php:825
+msgid "share-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:826
+msgid "shekel-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:827
+msgid "shield-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:828
+msgid "ship"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:829
+msgid "shipping-fast"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:830
+msgid "shirtsinbulk"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:831
+msgid "shopping-bag"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:832
+msgid "shopping-basket"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:833
+msgid "shopping-cart"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:834
+msgid "shower"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:835
+msgid "sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:836
+msgid "sign-in-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:837
+msgid "sign-language"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:838
+msgid "sign-out-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:839
+msgid "signal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:840
+msgid "simplybuilt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:841
+msgid "sistrix"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:842
+msgid "sitemap"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:843
+msgid "skyatlas"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:844
+msgid "skype"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:845
+msgid "slack"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:846
+msgid "slack-hash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:847
+msgid "sliders-h"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:848
+msgid "slideshare"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:849, zikzag/core/class/tinymce-icon.php:850
+msgid "smile"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:851
+msgid "smoking"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:852
+msgid "snapchat"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:853
+msgid "snapchat-ghost"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:854
+msgid "snapchat-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:855, zikzag/core/class/tinymce-icon.php:856
+msgid "snowflake"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:857
+msgid "sort"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:858
+msgid "sort-alpha-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:859
+msgid "sort-alpha-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:860
+msgid "sort-amount-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:861
+msgid "sort-amount-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:862
+msgid "sort-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:863
+msgid "sort-numeric-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:864
+msgid "sort-numeric-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:865
+msgid "sort-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:866
+msgid "soundcloud"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:867
+msgid "space-shuttle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:868
+msgid "speakap"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:869
+msgid "spinner"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:870
+msgid "spotify"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:871, zikzag/core/class/tinymce-icon.php:872
+msgid "square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:873
+msgid "square-full"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:874
+msgid "stack-exchange"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:875
+msgid "stack-overflow"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:876, zikzag/core/class/tinymce-icon.php:877
+msgid "star"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:878, zikzag/core/class/tinymce-icon.php:879
+msgid "star-half"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:880
+msgid "staylinked"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:881
+msgid "steam"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:882
+msgid "steam-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:883
+msgid "steam-symbol"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:884
+msgid "step-backward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:885
+msgid "step-forward"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:886
+msgid "stethoscope"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:887
+msgid "sticker-mule"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:888, zikzag/core/class/tinymce-icon.php:889
+msgid "sticky-note"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:890
+msgid "stop"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:891, zikzag/core/class/tinymce-icon.php:892
+msgid "stop-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:893
+msgid "stopwatch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:894
+msgid "strava"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:895
+msgid "street-view"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:896
+msgid "strikethrough"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:897
+msgid "stripe"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:898
+msgid "stripe-s"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:899
+msgid "studiovinari"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:900
+msgid "stumbleupon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:901
+msgid "stumbleupon-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:902
+msgid "subscript"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:903
+msgid "subway"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:904
+msgid "suitcase"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:905, zikzag/core/class/tinymce-icon.php:906
+msgid "sun"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:907
+msgid "superpowers"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:908
+msgid "superscript"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:909
+msgid "supple"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:910
+msgid "sync"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:911
+msgid "sync-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:912
+msgid "syringe"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:913
+msgid "table"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:914
+msgid "table-tennis"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:915
+msgid "tablet"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:916
+msgid "tablet-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:917
+msgid "tablets"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:918
+msgid "tachometer-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:919
+msgid "tag"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:920
+msgid "tags"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:921
+msgid "tape"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:922
+msgid "tasks"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:923
+msgid "taxi"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:924
+msgid "telegram"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:925
+msgid "telegram-plane"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:926
+msgid "tencent-weibo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:927
+msgid "terminal"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:928
+msgid "text-height"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:929
+msgid "text-width"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:930
+msgid "th"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:931
+msgid "th-large"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:932
+msgid "th-list"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:933
+msgid "themeisle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:934
+msgid "thermometer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:935
+msgid "thermometer-empty"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:936
+msgid "thermometer-full"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:937
+msgid "thermometer-half"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:938
+msgid "thermometer-quarter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:939
+msgid "thermometer-three-quarters"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:940, zikzag/core/class/tinymce-icon.php:941
+msgid "thumbs-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:942, zikzag/core/class/tinymce-icon.php:943
+msgid "thumbs-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:944
+msgid "thumbtack"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:945
+msgid "ticket-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:946
+msgid "times"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:947, zikzag/core/class/tinymce-icon.php:948
+msgid "times-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:949
+msgid "tint"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:950
+msgid "toggle-off"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:951
+msgid "toggle-on"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:952
+msgid "trademark"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:953
+msgid "train"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:954
+msgid "transgender"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:955
+msgid "transgender-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:956
+msgid "trash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:957, zikzag/core/class/tinymce-icon.php:958
+msgid "trash-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:959
+msgid "tree"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:960
+msgid "trello"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:961
+msgid "tripadvisor"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:962
+msgid "trophy"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:963
+msgid "truck"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:964
+msgid "truck-loading"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:965
+msgid "truck-moving"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:966
+msgid "tty"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:967
+msgid "tumblr"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:968
+msgid "tumblr-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:969
+msgid "tv"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:970
+msgid "twitch"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:971
+msgid "twitter"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:972
+msgid "twitter-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:973
+msgid "typo3"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:974
+msgid "uber"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:975
+msgid "uikit"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:976
+msgid "umbrella"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:977
+msgid "underline"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:978
+msgid "undo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:979
+msgid "undo-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:980
+msgid "uniregistry"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:981
+msgid "universal-access"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:982
+msgid "university"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:983
+msgid "unlink"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:984
+msgid "unlock"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:985
+msgid "unlock-alt"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:986
+msgid "untappd"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:987
+msgid "upload"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:988
+msgid "usb"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:989, zikzag/core/class/tinymce-icon.php:990
+msgid "user"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:991, zikzag/core/class/tinymce-icon.php:992
+msgid "user-circle"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:993
+msgid "user-md"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:994
+msgid "user-plus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:995
+msgid "user-secret"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:996
+msgid "user-times"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:997
+msgid "users"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:998
+msgid "ussunnah"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:999
+msgid "utensil-spoon"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1000
+msgid "utensils"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1001
+msgid "vaadin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1002
+msgid "venus"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1003
+msgid "venus-double"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1004
+msgid "venus-mars"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1005
+msgid "viacoin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1006
+msgid "viadeo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1007
+msgid "viadeo-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1008
+msgid "vial"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1009
+msgid "vials"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1010
+msgid "viber"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1011
+msgid "video"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1012
+msgid "video-slash"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1013
+msgid "vimeo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1014
+msgid "vimeo-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1015
+msgid "vimeo-v"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1016
+msgid "vine"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1017
+msgid "vk"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1018
+msgid "vnv"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1019
+msgid "volleyball-ball"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1020
+msgid "volume-down"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1021
+msgid "volume-off"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1022
+msgid "volume-up"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1023
+msgid "vuejs"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1024
+msgid "warehouse"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1025
+msgid "weibo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1026
+msgid "weight"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1027
+msgid "weixin"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1028
+msgid "whatsapp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1029
+msgid "whatsapp-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1030
+msgid "wheelchair"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1031
+msgid "whmcs"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1032
+msgid "wifi"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1033
+msgid "wikipedia-w"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1034, zikzag/core/class/tinymce-icon.php:1035
+msgid "window-close"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1036, zikzag/core/class/tinymce-icon.php:1037
+msgid "window-maximize"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1038, zikzag/core/class/tinymce-icon.php:1039
+msgid "window-minimize"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1040, zikzag/core/class/tinymce-icon.php:1041
+msgid "window-restore"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1042
+msgid "windows"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1043
+msgid "wine-glass"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1044
+msgid "won-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1045
+msgid "wordpress"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1046
+msgid "wordpress-simple"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1047
+msgid "wpbeginner"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1048
+msgid "wpexplorer"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1049
+msgid "wpforms"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1050
+msgid "wrench"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1051
+msgid "x-ray"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1052
+msgid "xbox"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1053
+msgid "xing"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1054
+msgid "xing-square"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1055
+msgid "y-combinator"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1056
+msgid "yahoo"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1057
+msgid "yandex"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1058
+msgid "yandex-international"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1059
+msgid "yelp"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1060
+msgid "yen-sign"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1061
+msgid "yoast"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1062
+msgid "youtube"
+msgstr ""
+
+#: zikzag/core/class/tinymce-icon.php:1063
+msgid "youtube-square"
+msgstr ""
+
+#: zikzag/core/class/walker-comment.php:44
+msgid "Pingback:"
+msgstr ""
+
+#: zikzag/core/class/walker-comment.php:44
+msgid "(Edit)"
+msgstr ""
+
+#: zikzag/core/class/walker-comment.php:63, zikzag/core/class/walker-mega-menu.php:625
+msgid "Edit"
+msgstr ""
+
+#: zikzag/core/class/walker-comment.php:68
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: zikzag/core/class/walker-comment.php:72
+msgid "Reply"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:243
+msgid "all"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:286
+msgid "Zikzag Mega Menu Settings:"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:287
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:293
+msgid "WGL Mega Menu Settings"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:300
+msgid "Enable The WGL Mega Menu?"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:302, zikzag/core/includes/redux/redux-config.php:157, zikzag/core/includes/redux/redux-config.php:406, zikzag/core/includes/redux/redux-config.php:3321, zikzag/core/includes/redux/redux-config.php:3575, zikzag/core/includes/redux/redux-config.php:4945
+msgid "Disable"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:304
+msgid " Vertical Sub-Categories"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:305
+msgid "Horizontal Sub-Categories"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:307
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:315
+msgid "Posts Count"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:324
+msgid "Ajax Loading?"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:332
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:345, zikzag/core/includes/redux/redux-config.php:3466, zikzag/core/includes/redux/redux-config.php:3668, zikzag/core/includes/redux/redux-config.php:3936
+msgid "Background Image"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:348
+msgid "Upload"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:353
+msgid "Background Repeat"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:355
+msgid "No Repeat"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:356
+msgid "Repeat"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:357
+msgid "Repeat X"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:358
+msgid "Repeat Y"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:365
+msgid "Background Position X"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:367, zikzag/core/includes/metabox/metabox-config.php:289, zikzag/core/includes/metabox/metabox-config.php:1610, zikzag/core/includes/metabox/metabox-config.php:1639, zikzag/core/includes/redux/redux-config.php:2063, zikzag/core/includes/redux/redux-config.php:2107, zikzag/core/includes/redux/redux-config.php:2151, zikzag/core/includes/redux/redux-config.php:2195, zikzag/core/includes/redux/redux-config.php:2239, zikzag/core/includes/redux/redux-config.php:2283, zikzag/core/includes/redux/redux-config.php:2327, zikzag/core/includes/redux/redux-config.php:2371, zikzag/core/includes/redux/redux-config.php:2415, zikzag/core/includes/redux/redux-config.php:2459, zikzag/core/includes/redux/redux-config.php:2503, zikzag/core/includes/redux/redux-config.php:2798, zikzag/core/includes/redux/redux-config.php:4385, zikzag/core/includes/redux/redux-config.php:4396, zikzag/core/includes/redux/redux-config.php:4551, zikzag/core/includes/redux/redux-config.php:5035, zikzag/core/includes/redux/redux-config.php:5055, zikzag/core/includes/redux/redux-config.php:5840, zikzag/core/includes/redux/redux-config.php:5860
+msgid "Right"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:368, zikzag/core/class/walker-mega-menu.php:379, zikzag/core/includes/metabox/metabox-config.php:288, zikzag/core/includes/metabox/metabox-config.php:1609, zikzag/core/includes/redux/redux-config.php:2062, zikzag/core/includes/redux/redux-config.php:2106, zikzag/core/includes/redux/redux-config.php:2150, zikzag/core/includes/redux/redux-config.php:2194, zikzag/core/includes/redux/redux-config.php:2238, zikzag/core/includes/redux/redux-config.php:2282, zikzag/core/includes/redux/redux-config.php:2326, zikzag/core/includes/redux/redux-config.php:2370, zikzag/core/includes/redux/redux-config.php:2414, zikzag/core/includes/redux/redux-config.php:2458, zikzag/core/includes/redux/redux-config.php:2502, zikzag/core/includes/redux/redux-config.php:4384, zikzag/core/includes/redux/redux-config.php:4395, zikzag/core/includes/redux/redux-config.php:4550, zikzag/core/includes/redux/redux-config.php:5034, zikzag/core/includes/redux/redux-config.php:5839, zikzag/core/includes/redux/redux-config.php:5859
+msgid "Center"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:369, zikzag/core/includes/metabox/metabox-config.php:287, zikzag/core/includes/metabox/metabox-config.php:1608, zikzag/core/includes/metabox/metabox-config.php:1638, zikzag/core/includes/redux/redux-config.php:2061, zikzag/core/includes/redux/redux-config.php:2105, zikzag/core/includes/redux/redux-config.php:2149, zikzag/core/includes/redux/redux-config.php:2193, zikzag/core/includes/redux/redux-config.php:2237, zikzag/core/includes/redux/redux-config.php:2281, zikzag/core/includes/redux/redux-config.php:2325, zikzag/core/includes/redux/redux-config.php:2369, zikzag/core/includes/redux/redux-config.php:2413, zikzag/core/includes/redux/redux-config.php:2457, zikzag/core/includes/redux/redux-config.php:2501, zikzag/core/includes/redux/redux-config.php:2797, zikzag/core/includes/redux/redux-config.php:4383, zikzag/core/includes/redux/redux-config.php:4394, zikzag/core/includes/redux/redux-config.php:4549, zikzag/core/includes/redux/redux-config.php:5033, zikzag/core/includes/redux/redux-config.php:5054, zikzag/core/includes/redux/redux-config.php:5838, zikzag/core/includes/redux/redux-config.php:5858
+msgid "Left"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:376
+msgid "Background Position Y"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:378, zikzag/core/includes/redux/redux-config.php:2072, zikzag/core/includes/redux/redux-config.php:2116, zikzag/core/includes/redux/redux-config.php:2160, zikzag/core/includes/redux/redux-config.php:2204, zikzag/core/includes/redux/redux-config.php:2248, zikzag/core/includes/redux/redux-config.php:2292, zikzag/core/includes/redux/redux-config.php:2336, zikzag/core/includes/redux/redux-config.php:2380, zikzag/core/includes/redux/redux-config.php:2424, zikzag/core/includes/redux/redux-config.php:2468, zikzag/core/includes/redux/redux-config.php:2512
+msgid "Top"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:380, zikzag/core/includes/redux/redux-config.php:2074, zikzag/core/includes/redux/redux-config.php:2118, zikzag/core/includes/redux/redux-config.php:2162, zikzag/core/includes/redux/redux-config.php:2206, zikzag/core/includes/redux/redux-config.php:2250, zikzag/core/includes/redux/redux-config.php:2294, zikzag/core/includes/redux/redux-config.php:2338, zikzag/core/includes/redux/redux-config.php:2382, zikzag/core/includes/redux/redux-config.php:2426, zikzag/core/includes/redux/redux-config.php:2470, zikzag/core/includes/redux/redux-config.php:2514
+msgid "Bottom"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:387
+msgid "Min Height"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:395, zikzag/core/includes/redux/redux-config.php:1747, zikzag/core/includes/redux/redux-config.php:1859, zikzag/core/includes/redux/redux-config.php:1967
+msgid "Max Width"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:403
+msgid "Padding Left"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:410
+msgid "Padding Right"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:419
+msgid "Hide Mega Menu Headings?"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: zikzag/core/class/walker-mega-menu.php:579
+msgid "%s (Pending)"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:575
+msgid "%s (Invalid)"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:593
+msgid "sub item"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:608
+msgid "Move up"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:621
+msgid "Move down"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:625
+msgid "Edit menu item"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:634, zikzag/core/includes/metabox/metabox-config.php:634
+msgid "URL"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:641
+msgid "Navigation Label"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:647
+msgid "Title Attribute"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:654, zikzag/core/includes/redux/redux-config.php:1216, zikzag/core/includes/redux/redux-config.php:1415
+msgid "Open link in a new tab"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:659
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:665
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:671, zikzag/core/includes/metabox/metabox-config.php:66, zikzag/core/includes/metabox/metabox-config.php:179, zikzag/core/includes/metabox/metabox-config.php:186
+msgid "Description"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:673
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:684
+msgid "Move"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:685
+msgid "Up one"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:686
+msgid "Down one"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:689
+msgid "To the top"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:701
+msgid "Original: %s"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:714
+msgid "Remove"
+msgstr ""
+
+#: zikzag/core/class/walker-mega-menu.php:715
+msgid "Cancel"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:77
+msgid "Your theme's license is activated successfully."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:96
+msgid "Deactivate"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:26
+msgid "Activate your Licence"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:29
+msgid "Welcome and thank you for Choosing %s Theme!"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:31
+msgid "The %s theme needs to be activated to enable demo import installation and customer support service."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:37
+msgid "How to find purchase code?"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:41, zikzag/core/dashboard/tpl-view-activate-theme.php:42
+msgid "E-mail address"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:46, zikzag/core/dashboard/tpl-view-activate-theme.php:47
+msgid "Enter Your Purchase Code"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:60, zikzag/core/tgm/class-tgm-plugin-activation.php:2828
+msgid "Activate"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:104
+msgid "1 license  = 1 domain = 1 website"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-activate-theme.php:105
+msgid "You can always buy more licences for this product:"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:70
+msgid "Theme Config"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:79, zikzag/core/dashboard/tpl-view-status.php:322, zikzag/core/tgm/class-tgm-plugin-activation.php:2653
+msgid "Version"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:83
+msgid "Author URL"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:97
+msgid "Server Settings"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:113
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:128
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:133
+msgid " You cannot upload images, themes and plugins that have a size bigger than this value: "
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:140, zikzag/core/dashboard/tpl-view-status.php:167, zikzag/core/dashboard/tpl-view-status.php:200, zikzag/core/dashboard/tpl-view-status.php:232, zikzag/core/dashboard/tpl-view-status.php:266, zikzag/core/dashboard/tpl-view-status.php:342
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:149
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:161
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:183
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:194
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:216
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:227
+msgid ". We recommend minimum value: %d. Max input vars limitation will truncate POST data such as menus."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:247
+msgid "MySql Version"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:251
+msgid "Max upload size"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:261
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:281
+msgid "SimpleXML"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:296, zikzag/core/includes/redux/redux-config.php:4695, zikzag/core/includes/redux/redux-config.php:4715, zikzag/core/includes/redux/redux-config.php:4789, zikzag/core/includes/redux/redux-config.php:4809
+msgid "Enabled"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:289
+msgid "To ensure successful installation of demo content The SimpleXML extension should be installed on your web server. Please contact your hosting provider to install and activate SimpleXML extension."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:309
+msgid "WordPress Settings"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:314
+msgid "Home Url"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:318
+msgid "Site Url"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:326
+msgid "Memory Limit"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:337
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:371
+msgid "WP_DEBUG is disabled."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:367
+msgid "WP_DEBUG is enabled."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-status.php:368
+msgid " How to disable WP_DEBUG mode."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:30
+msgid "Need Help? WebGeniusLab Help Center Here"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:35
+msgid "Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/item_support_policy\">Support Policy</a> before submitting a ticket and make sure that your question related to our product issues."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:39
+msgid "If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:64
+msgid "Before submitting a ticket, please read the documentation. Probably, your issue already described."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:71
+msgid "Visit Documentation"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:93
+msgid "Video Tutorials"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:100
+msgid "There you can watch tutorial for main issues. How to import demo content? How to create a Mega Menu? etc.."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:107
+msgid "Watch Tutorials"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:129
+msgid "Support forum"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:136
+msgid "If you did not find an answer to your question, submit a ticket with well describe your issue."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:143
+msgid "Create a ticket"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-theme-helper.php:156
+msgid "Do You have some other questions? Need Customization? Pre-purchase questions? Ask it <a  target=\"_blank\"  href=\"mailto:webgeniuslab@gmail.com\">there!</a>"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:30
+msgid "Welcome to"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:35
+msgid "Version - "
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:40
+msgid "%s is already installed and ready to use! Let's build something impressive."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:54
+msgid "Just complete the steps below and you will be able to use all functionalities of %s theme by WebGeniusLab:"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:60
+msgid "Step 1"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:62
+msgid "Activate your license."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:65
+msgid "Important:"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:67
+msgid "one license  only for one website"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:72
+msgid "Step 2"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:75
+msgid "Check <a target=\"_blank\" href=\"%s\">requirements</a> to avoid errors with your WordPress."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:81
+msgid "Step 3"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:83
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:87
+msgid "Step 4"
+msgstr ""
+
+#: zikzag/core/dashboard/tpl-view-weclome.php:89
+msgid "Import demo content"
+msgstr ""
+
+#: zikzag/core/includes/default-options.php:29
+msgctxt "Amiri font: on or off"
+msgid "on"
+msgstr ""
+
+#: zikzag/core/includes/default-options.php:35
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:334, zikzag/core/tgm/wgl-tgm.php:54
+msgid "Install Required Plugins"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:335, zikzag/core/tgm/wgl-tgm.php:55
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:337, zikzag/core/tgm/wgl-tgm.php:56
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:340, zikzag/core/tgm/wgl-tgm.php:57
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:341, zikzag/core/tgm/wgl-tgm.php:58
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:345, zikzag/core/tgm/wgl-tgm.php:59
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:349, zikzag/core/tgm/wgl-tgm.php:64
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:353
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:357, zikzag/core/tgm/wgl-tgm.php:61
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:361, zikzag/core/tgm/wgl-tgm.php:62
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:365, zikzag/core/tgm/wgl-tgm.php:66
+msgid "Begin installing plugins"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:369
+msgid "Begin updating plugins"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:373, zikzag/core/tgm/wgl-tgm.php:67
+msgid "Begin activating plugins"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:377, zikzag/core/tgm/wgl-tgm.php:68
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:378, zikzag/core/tgm/class-tgm-plugin-activation.php:909, zikzag/core/tgm/class-tgm-plugin-activation.php:2633, zikzag/core/tgm/class-tgm-plugin-activation.php:3688
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:379, zikzag/core/tgm/class-tgm-plugin-activation.php:3262, zikzag/core/tgm/wgl-tgm.php:69
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:380, zikzag/core/tgm/class-tgm-plugin-activation.php:3055
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:382
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:384
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:386
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:595
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:596
+msgid "Update Required"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:713
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:1019, zikzag/core/tgm/class-tgm-plugin-activation.php:1016
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:1016
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:1203, zikzag/core/tgm/class-tgm-plugin-activation.php:3051
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2064
+msgid "TGMPA v%s"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2373
+msgid "Required"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2376
+msgid "Recommended"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2392
+msgid "WordPress Repository"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2395
+msgid "External Source"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2398
+msgid "Pre-Packaged"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2415
+msgid "Not Installed"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2421
+msgid "Active"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2419
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2433
+msgid "Update recommended"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2430
+msgid "Requires Update"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2427
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2442
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2488
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2492
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2496
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2500
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2582
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2590
+msgid "Installed version:"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2598
+msgid "Minimum required version:"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2610
+msgid "Available version:"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2633
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2647
+msgid "Plugin"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2648
+msgid "Source"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2649
+msgid "Type"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2654
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2708
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2714
+msgid "Activate %2$s"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2703
+msgid "Install %2$s"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2786
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2819
+msgid "Install"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2825
+msgid "Update"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2861
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2859
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2904
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:2902
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3011
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3037
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3261
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3604
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3606
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3618
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3620
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3621
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3623
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3610
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3612
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3613
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3615
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3628
+msgid "Show Details"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3628
+msgid "Hide Details"
+msgstr ""
+
+#: zikzag/core/tgm/class-tgm-plugin-activation.php:3601
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:15
+msgid "Zikzag Core"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:24
+msgid "Elementor"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:29
+msgid "Revolution Slider"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:35
+msgid "WooCommerce"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:39
+msgid "Contact Form 7"
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:60
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:63
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:65
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: zikzag/core/tgm/wgl-tgm.php:70
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: zikzag/templates/header/section-header.php:1295
+msgid "Type To Search"
+msgstr ""
+
+#: zikzag/templates/header/section-header.php:1431, zikzag/core/includes/redux/redux-config.php:356, zikzag/core/includes/redux/redux-config.php:375
+msgid "Login"
+msgstr ""
+
+#: zikzag/templates/header/section-header.php:1429
+msgid "Logout"
+msgstr ""
+
+#: zikzag/templates/header/section-header.php:1510
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:187
+msgid "No Posts"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:180
+msgid "Blog Post"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:170, zikzag/core/includes/redux/redux-config.php:3652, zikzag/core/includes/redux/redux-config.php:4243
+msgid "Archive"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:168, zikzag/core/includes/redux/redux-config.php:5662
+msgid "Shop"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:164, zikzag/woocommerce/cart/cart.php:23, zikzag/woocommerce/cart/cart.php:56
+msgid "Product"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:160, zikzag/core/includes/redux/redux-config.php:4729
+msgid "Team"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:156, zikzag/core/includes/redux/redux-config.php:4713
+msgid "Portfolio Single"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:153
+msgid "Error Page"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:148
+msgid "Author:"
+msgstr ""
+
+#: zikzag/templates/header/section-page_title.php:144
+msgid " Tag"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:25, zikzag/woocommerce/cart/cart.php:76
+msgid "Price"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:26, zikzag/woocommerce/cart/cart.php:82, zikzag/woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:27, zikzag/woocommerce/cart/cart.php:104
+msgid "Total"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:136
+msgid "Coupon:"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:136, zikzag/woocommerce/cart/cart.php:136
+msgid "Apply coupon"
+msgstr ""
+
+#: zikzag/woocommerce/cart/cart.php:141, zikzag/woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr ""
+
+#: zikzag/woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: zikzag/woocommerce/single-product/related.php:30
+msgid "Related products"
+msgstr ""
+
+#: zikzag/woocommerce/single-product/up-sells.php:20
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:44
+msgid "Team Options"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:49
+msgid "Member Department"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:55
+msgid "Member Info"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:70, zikzag/core/includes/redux/redux-config.php:1210, zikzag/core/includes/redux/redux-config.php:1409
+msgid "Link"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:76
+msgid "Social Icons"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:82
+msgid "Select an icon"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:87
+msgid "Single Info Background Image"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:94
+msgid "Grid Info Background Image"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:108
+msgid "Portfolio Options"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:113, zikzag/core/includes/metabox/metabox-config.php:479, zikzag/core/includes/redux/redux-config.php:4054
+msgid "Featured Image"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:118, zikzag/core/includes/metabox/metabox-config.php:268, zikzag/core/includes/metabox/metabox-config.php:419, zikzag/core/includes/metabox/metabox-config.php:484, zikzag/core/includes/metabox/metabox-config.php:662, zikzag/core/includes/metabox/metabox-config.php:863, zikzag/core/includes/metabox/metabox-config.php:969, zikzag/core/includes/metabox/metabox-config.php:1015, zikzag/core/includes/metabox/metabox-config.php:1493, zikzag/core/includes/redux/redux-config.php:3921, zikzag/core/includes/redux/redux-config.php:4374, zikzag/core/includes/redux/redux-config.php:4754, zikzag/core/includes/redux/redux-config.php:4845, zikzag/core/includes/redux/redux-config.php:5829
+msgid "Custom"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:124, zikzag/core/includes/metabox/metabox-config.php:475, zikzag/core/includes/metabox/metabox-config.php:490
+msgid "Featured Image Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:128, zikzag/core/includes/metabox/metabox-config.php:318, zikzag/core/includes/metabox/metabox-config.php:494, zikzag/core/includes/metabox/metabox-config.php:663, zikzag/core/includes/metabox/metabox-config.php:1078, zikzag/core/includes/metabox/metabox-config.php:1668, zikzag/core/includes/metabox/metabox-config.php:1803, zikzag/core/includes/redux/redux-config.php:4057
+msgid "Off"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:129, zikzag/core/includes/metabox/metabox-config.php:495, zikzag/core/includes/redux/redux-config.php:4058
+msgid "Replace"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:140, zikzag/core/includes/metabox/metabox-config.php:506
+msgid "Featured Image Replace"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:153
+msgid "Show Title on single"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:159
+msgid "Add Custom Link for Portfolio Grid"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:163
+msgid "Custom Url for Portfolio Grid"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:174
+msgid "Info"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:190
+msgid "Url"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:196
+msgid "Info Description"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:200
+msgid "Info description is shown in one row with a main info"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:203, zikzag/core/includes/metabox/metabox-config.php:356, zikzag/core/includes/metabox/metabox-config.php:689, zikzag/core/includes/redux/redux-config.php:4343
+msgid "Categories"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:208, zikzag/core/includes/metabox/metabox-config.php:220, zikzag/core/includes/metabox/metabox-config.php:232, zikzag/core/includes/metabox/metabox-config.php:244, zikzag/core/includes/redux/redux-config.php:156, zikzag/core/includes/redux/redux-config.php:405, zikzag/core/includes/redux/redux-config.php:3002, zikzag/core/includes/redux/redux-config.php:3017, zikzag/core/includes/redux/redux-config.php:3092, zikzag/core/includes/redux/redux-config.php:3320, zikzag/core/includes/redux/redux-config.php:3574, zikzag/core/includes/redux/redux-config.php:3779, zikzag/core/includes/redux/redux-config.php:3787, zikzag/core/includes/redux/redux-config.php:3929, zikzag/core/includes/redux/redux-config.php:4081, zikzag/core/includes/redux/redux-config.php:4089, zikzag/core/includes/redux/redux-config.php:4097, zikzag/core/includes/redux/redux-config.php:4105, zikzag/core/includes/redux/redux-config.php:4328, zikzag/core/includes/redux/redux-config.php:4336, zikzag/core/includes/redux/redux-config.php:4344, zikzag/core/includes/redux/redux-config.php:4410, zikzag/core/includes/redux/redux-config.php:4559, zikzag/core/includes/redux/redux-config.php:4567, zikzag/core/includes/redux/redux-config.php:4575, zikzag/core/includes/redux/redux-config.php:4591, zikzag/core/includes/redux/redux-config.php:4600, zikzag/core/includes/redux/redux-config.php:4609, zikzag/core/includes/redux/redux-config.php:4618, zikzag/core/includes/redux/redux-config.php:4643, zikzag/core/includes/redux/redux-config.php:4831, zikzag/core/includes/redux/redux-config.php:4861, zikzag/core/includes/redux/redux-config.php:4916, zikzag/core/includes/redux/redux-config.php:4924, zikzag/core/includes/redux/redux-config.php:4944
+msgid "Use"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:209, zikzag/core/includes/metabox/metabox-config.php:221, zikzag/core/includes/metabox/metabox-config.php:233, zikzag/core/includes/metabox/metabox-config.php:245, zikzag/core/includes/redux/redux-config.php:3003, zikzag/core/includes/redux/redux-config.php:3018, zikzag/core/includes/redux/redux-config.php:3093, zikzag/core/includes/redux/redux-config.php:3780, zikzag/core/includes/redux/redux-config.php:3788, zikzag/core/includes/redux/redux-config.php:3930, zikzag/core/includes/redux/redux-config.php:4082, zikzag/core/includes/redux/redux-config.php:4090, zikzag/core/includes/redux/redux-config.php:4098, zikzag/core/includes/redux/redux-config.php:4106, zikzag/core/includes/redux/redux-config.php:4329, zikzag/core/includes/redux/redux-config.php:4337, zikzag/core/includes/redux/redux-config.php:4345, zikzag/core/includes/redux/redux-config.php:4411, zikzag/core/includes/redux/redux-config.php:4560, zikzag/core/includes/redux/redux-config.php:4568, zikzag/core/includes/redux/redux-config.php:4576, zikzag/core/includes/redux/redux-config.php:4592, zikzag/core/includes/redux/redux-config.php:4601, zikzag/core/includes/redux/redux-config.php:4610, zikzag/core/includes/redux/redux-config.php:4619, zikzag/core/includes/redux/redux-config.php:4644, zikzag/core/includes/redux/redux-config.php:4832, zikzag/core/includes/redux/redux-config.php:4862, zikzag/core/includes/redux/redux-config.php:4917, zikzag/core/includes/redux/redux-config.php:4925
+msgid "Hide"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:215
+msgid "Date"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:227, zikzag/core/includes/redux/redux-config.php:4558
+msgid "Tags"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:239
+msgid "Share Links"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:258
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:263, zikzag/core/includes/metabox/metabox-config.php:414
+msgid "Post Layout"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:274, zikzag/core/includes/metabox/metabox-config.php:410
+msgid "Post Layout Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:283
+msgid "Alignment"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:307, zikzag/core/includes/metabox/metabox-config.php:348
+msgid "Related Portfolio"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:313
+msgid "Portfolio Related"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:317, zikzag/core/includes/metabox/metabox-config.php:1077, zikzag/core/includes/metabox/metabox-config.php:1667, zikzag/core/includes/metabox/metabox-config.php:1802
+msgid "On"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:325
+msgid "Portfolio Related Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:335, zikzag/core/includes/redux/redux-config.php:4657
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:345, zikzag/core/includes/metabox/metabox-config.php:678, zikzag/core/includes/redux/redux-config.php:4186, zikzag/core/includes/redux/redux-config.php:4327, zikzag/core/includes/redux/redux-config.php:4650
+msgid "Title"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:368, zikzag/core/includes/metabox/metabox-config.php:701, zikzag/core/includes/redux/redux-config.php:3357, zikzag/core/includes/redux/redux-config.php:4202
+msgid "Columns"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:372, zikzag/core/includes/metabox/metabox-config.php:706
+msgid "2"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:373, zikzag/core/includes/metabox/metabox-config.php:707
+msgid "3"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:374, zikzag/core/includes/metabox/metabox-config.php:708
+msgid "4"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:385, zikzag/core/includes/metabox/metabox-config.php:719, zikzag/core/includes/redux/redux-config.php:4215, zikzag/core/includes/redux/redux-config.php:4676
+msgid "Number of Related Items"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:405
+msgid "Post Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:425
+msgid "Post Layout Type"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:429, zikzag/core/includes/redux/redux-config.php:3905
+msgid "Title First"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:430, zikzag/core/includes/redux/redux-config.php:3906
+msgid "Image First"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:431, zikzag/core/includes/redux/redux-config.php:3907
+msgid "Overlay Image"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:442
+msgid "Padding Top"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:464
+msgid "Apply Animation"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:524
+msgid "Post Format Layout"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:530
+msgid "Standard Post( Enabled only Featured Image for this post format)"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:541
+msgid "Gallery Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:545
+msgid "Add Images"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:552
+msgid "Video Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:556
+msgid "Video Style"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:560
+msgid "Background Video"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:561
+msgid "Popup"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:567
+msgid "Start Video"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:578
+msgid "End Video"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:588, zikzag/core/includes/metabox/metabox-config.php:624
+msgid "oEmbed URL"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:594
+msgid "Quote Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:598
+msgid "Quote Text"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:603
+msgid "Author Name"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:608
+msgid "Author Position"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:613
+msgid "Author Avatar"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:620
+msgid "Audio Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:630
+msgid "Link Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:639
+msgid "Text"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:651
+msgid "Related Blog Post"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:657
+msgid "Related Options"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:669
+msgid "Related Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:705
+msgid "1"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:733
+msgid "Display items carousel for this blog post"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:751
+msgid "Page Layout"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:756, zikzag/core/includes/redux/redux-config.php:5094
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:768, zikzag/core/includes/redux/redux-config.php:5694
+msgid "Sidebar Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:778, zikzag/core/includes/redux/redux-config.php:5114
+msgid "Page Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:792, zikzag/core/includes/redux/redux-config.php:5121
+msgid "Page Sidebar Width"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:810, zikzag/core/includes/redux/redux-config.php:5132, zikzag/core/includes/redux/redux-config.php:5738
+msgid "Sticky Sidebar On?"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:820, zikzag/core/includes/redux/redux-config.php:3736, zikzag/core/includes/redux/redux-config.php:4024, zikzag/core/includes/redux/redux-config.php:4517, zikzag/core/includes/redux/redux-config.php:5139, zikzag/core/includes/redux/redux-config.php:5745
+msgid "Sidebar Side Gap"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:853, zikzag/core/includes/metabox/metabox-config.php:858
+msgid "Page Colors"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:870
+msgid "Colors Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:879
+msgid "General Theme Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:892, zikzag/core/includes/redux/redux-config.php:5405
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:905, zikzag/core/includes/redux/redux-config.php:5413
+msgid "Body Background Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:918
+msgid "Scroll Up Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:927
+msgid "Button Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:947, zikzag/core/includes/redux/redux-config.php:217, zikzag/core/includes/redux/redux-config.php:403
+msgid "Header"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:952, zikzag/core/includes/redux/redux-config.php:2536
+msgid "Header Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:956
+msgid "default"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:957
+msgid "custom"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:958
+msgid "hide"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:964, zikzag/core/includes/redux/redux-config.php:424
+msgid "Header Template"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:981, zikzag/core/includes/metabox/metabox-config.php:1027
+msgid "Template"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1000
+msgid "Sticky Header"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1010
+msgid "Sticky Header Template"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1067, zikzag/core/includes/metabox/metabox-config.php:1073, zikzag/core/includes/metabox/metabox-config.php:1247, zikzag/core/includes/redux/redux-config.php:2985, zikzag/core/includes/redux/redux-config.php:3659, zikzag/core/includes/redux/redux-config.php:3914
+msgid "Page Title"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1085
+msgid "Page Title Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1095
+msgid "Use Background?"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1106, zikzag/core/includes/metabox/metabox-config.php:1741, zikzag/core/includes/redux/redux-config.php:5020
+msgid "Background"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1122, zikzag/core/includes/metabox/metabox-config.php:1383, zikzag/core/includes/redux/redux-config.php:3044, zikzag/core/includes/redux/redux-config.php:3223
+msgid "Height"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1136, zikzag/core/includes/redux/redux-config.php:3080, zikzag/core/includes/redux/redux-config.php:4381, zikzag/core/includes/redux/redux-config.php:5836
+msgid "Title Alignment"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1140, zikzag/core/includes/metabox/metabox-config.php:1273
+msgid "left"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1141, zikzag/core/includes/metabox/metabox-config.php:1274
+msgid "center"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1142, zikzag/core/includes/metabox/metabox-config.php:1275
+msgid "right"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1153, zikzag/core/includes/redux/redux-config.php:3053, zikzag/core/includes/redux/redux-config.php:3238, zikzag/core/includes/redux/redux-config.php:4434, zikzag/core/includes/redux/redux-config.php:4885, zikzag/core/includes/redux/redux-config.php:5894
+msgid "Paddings Top/Bottom"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1174, zikzag/core/includes/redux/redux-config.php:3068, zikzag/core/includes/redux/redux-config.php:4449, zikzag/core/includes/redux/redux-config.php:4897, zikzag/core/includes/redux/redux-config.php:5905
+msgid "Margin Bottom"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1193
+msgid "Border Top Switch"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1202, zikzag/core/includes/redux/redux-config.php:5923
+msgid "Border Top Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1215
+msgid "Parallax Switch"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1224
+msgid "Prallax Speed"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1238
+msgid "Custom Page Title"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1259, zikzag/core/includes/metabox/metabox-config.php:1442
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1269, zikzag/core/includes/redux/redux-config.php:3108, zikzag/core/includes/redux/redux-config.php:4392
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1287, zikzag/core/includes/redux/redux-config.php:3099, zikzag/core/includes/redux/redux-config.php:4403
+msgid "Breadcrumbs Full Width"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1299
+msgid "Page Title Typography"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1308, zikzag/core/includes/metabox/metabox-config.php:1419, zikzag/core/includes/redux/redux-config.php:3153, zikzag/core/includes/redux/redux-config.php:3248
+msgid "Page Title Font"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1329, zikzag/core/includes/metabox/metabox-config.php:1453, zikzag/core/includes/redux/redux-config.php:3173, zikzag/core/includes/redux/redux-config.php:3276
+msgid "Page Title Breadcrumbs Font"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1350
+msgid "Responsive Layout"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1360, zikzag/core/includes/redux/redux-config.php:3204
+msgid "Responsive Layout On/Off"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1369, zikzag/core/includes/redux/redux-config.php:3210
+msgid "Screen breakpoint"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1397, zikzag/core/includes/redux/redux-config.php:3957
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1500, zikzag/core/includes/redux/redux-config.php:4951
+msgid "Side Panel Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1509, zikzag/core/includes/metabox/metabox-config.php:1683, zikzag/core/includes/redux/redux-config.php:3334, zikzag/core/includes/redux/redux-config.php:4958
+msgid "Content Type"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1513, zikzag/core/includes/metabox/metabox-config.php:1687
+msgid "Widgets"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1514, zikzag/core/includes/metabox/metabox-config.php:1688
+msgid "Page"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1525, zikzag/core/includes/metabox/metabox-config.php:1699
+msgid "Select a page"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1543, zikzag/core/includes/metabox/metabox-config.php:1717, zikzag/core/includes/metabox/metabox-config.php:1859, zikzag/core/includes/redux/redux-config.php:3428, zikzag/core/includes/redux/redux-config.php:3618, zikzag/core/includes/redux/redux-config.php:4981
+msgid "Paddings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1567, zikzag/core/includes/redux/redux-config.php:4996
+msgid "Title Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1579, zikzag/core/includes/metabox/metabox-config.php:1831, zikzag/core/includes/redux/redux-config.php:1251, zikzag/core/includes/redux/redux-config.php:1450, zikzag/core/includes/redux/redux-config.php:3602, zikzag/core/includes/redux/redux-config.php:5008
+msgid "Text Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1591, zikzag/core/includes/metabox/metabox-config.php:1845, zikzag/core/includes/redux/redux-config.php:1275, zikzag/core/includes/redux/redux-config.php:1474, zikzag/core/includes/redux/redux-config.php:3496, zikzag/core/includes/redux/redux-config.php:3610
+msgid "Background Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1604, zikzag/core/includes/redux/redux-config.php:5031
+msgid "Text Align"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1621, zikzag/core/includes/redux/redux-config.php:5042
+msgid "Width"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1634, zikzag/core/includes/redux/redux-config.php:5052
+msgid "Position"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1657, zikzag/core/includes/metabox/metabox-config.php:1662, zikzag/core/includes/redux/redux-config.php:3303, zikzag/core/includes/redux/redux-config.php:3319
+msgid "Footer"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1674, zikzag/core/includes/redux/redux-config.php:3327
+msgid "Footer Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1759, zikzag/core/includes/redux/redux-config.php:3529
+msgid "Add Border Top"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1769, zikzag/core/includes/redux/redux-config.php:1299, zikzag/core/includes/redux/redux-config.php:1498
+msgid "Border Color"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1792, zikzag/core/includes/metabox/metabox-config.php:1797, zikzag/core/includes/redux/redux-config.php:3557, zikzag/core/includes/redux/redux-config.php:3573
+msgid "Copyright"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1809, zikzag/core/includes/redux/redux-config.php:3581
+msgid "Copyright Settings"
+msgstr ""
+
+#: zikzag/core/includes/metabox/metabox-config.php:1818, zikzag/core/includes/redux/redux-config.php:3588
+msgid "Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:81
+msgid "General"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:88
+msgid "Use minify css/js files"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:89
+msgid "Recommended for site load speed."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:94
+msgid "Preloader Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:100
+msgid "Preloader On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:106
+msgid "Preloader Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:107
+msgid "Set Preloader Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:115
+msgid "Preloader Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:128
+msgid "Search Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:134
+msgid "Choose search style"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:136, zikzag/core/includes/redux/redux-config.php:5183
+msgid "Standard"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:137
+msgid "Full Page Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:149
+msgid "Scroll Up Button Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:155, zikzag/core/includes/redux/redux-config.php:352, zikzag/core/includes/redux/redux-config.php:353
+msgid "Button"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:163, zikzag/core/includes/redux/redux-config.php:1203, zikzag/core/includes/redux/redux-config.php:1402
+msgid "Button Text"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:170
+msgid "Text/Icon Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:187, zikzag/core/includes/redux/redux-config.php:194, zikzag/core/includes/redux/redux-config.php:203
+msgid "Custom JS"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:195
+msgid "Paste your JS code here."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:204
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:226, zikzag/core/includes/redux/redux-config.php:454, zikzag/core/includes/redux/redux-config.php:474, zikzag/core/includes/redux/redux-config.php:2815, zikzag/core/includes/redux/redux-config.php:2827, zikzag/core/includes/redux/redux-config.php:2847, zikzag/core/includes/redux/redux-config.php:2855
+msgid "Logo"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:233
+msgid "Header Logo"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:238
+msgid "Enable Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:246
+msgid "Set Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:255
+msgid "Sticky Logo"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:260
+msgid "Enable Sticky Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:268
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:279
+msgid "Mobile Logo"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:284
+msgid "Enable Mobile Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:292
+msgid "Set Mobile Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:303
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:308
+msgid "Enable Mobile Menu Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:316
+msgid "Set Mobile Menu Logo Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:330, zikzag/core/includes/redux/redux-config.php:360, zikzag/core/includes/redux/redux-config.php:378
+msgid "HTML 1"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:331, zikzag/core/includes/redux/redux-config.php:361, zikzag/core/includes/redux/redux-config.php:379
+msgid "HTML 2"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:332, zikzag/core/includes/redux/redux-config.php:362, zikzag/core/includes/redux/redux-config.php:380
+msgid "HTML 3"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:333, zikzag/core/includes/redux/redux-config.php:363, zikzag/core/includes/redux/redux-config.php:381
+msgid "HTML 4"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:334, zikzag/core/includes/redux/redux-config.php:364, zikzag/core/includes/redux/redux-config.php:382
+msgid "HTML 5"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:335, zikzag/core/includes/redux/redux-config.php:365, zikzag/core/includes/redux/redux-config.php:383
+msgid "HTML 6"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:336
+msgid "HTML 7"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:337
+msgid "HTML 8"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:338, zikzag/core/includes/redux/redux-config.php:339, zikzag/core/includes/redux/redux-config.php:340, zikzag/core/includes/redux/redux-config.php:341, zikzag/core/includes/redux/redux-config.php:342, zikzag/core/includes/redux/redux-config.php:343
+msgid "|"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:344, zikzag/core/includes/redux/redux-config.php:366, zikzag/core/includes/redux/redux-config.php:385, zikzag/core/includes/redux/redux-config.php:453, zikzag/core/includes/redux/redux-config.php:473
+msgid "Spacer 1"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:345, zikzag/core/includes/redux/redux-config.php:367, zikzag/core/includes/redux/redux-config.php:386, zikzag/core/includes/redux/redux-config.php:461, zikzag/core/includes/redux/redux-config.php:481
+msgid "Spacer 2"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:346, zikzag/core/includes/redux/redux-config.php:368, zikzag/core/includes/redux/redux-config.php:387
+msgid "Spacer 3"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:347, zikzag/core/includes/redux/redux-config.php:369, zikzag/core/includes/redux/redux-config.php:388
+msgid "Spacer 4"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:348, zikzag/core/includes/redux/redux-config.php:370, zikzag/core/includes/redux/redux-config.php:389
+msgid "Spacer 5"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:349, zikzag/core/includes/redux/redux-config.php:371, zikzag/core/includes/redux/redux-config.php:390
+msgid "Spacer 6"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:350
+msgid "Spacer 7"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:351
+msgid "Spacer 8"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:354, zikzag/core/includes/redux/redux-config.php:373, zikzag/core/includes/redux/redux-config.php:384
+msgid "WPML"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:355, zikzag/core/includes/redux/redux-config.php:374, zikzag/core/includes/redux/redux-config.php:6043
+msgid "Cart"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:397, zikzag/core/includes/redux/redux-config.php:444
+msgid "Header Builder"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:412
+msgid "Layout Building Tool"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:414
+msgid "Default Builder"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:415
+msgid "Custom Builder ( Recommended )"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:419
+msgid "Custom Builder allows use Elementor environment for template building."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:435, zikzag/core/includes/redux/redux-config.php:2661
+msgid "Selected Template will be used for all pages by default. You can edit/create Header Template in the"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:437, zikzag/core/includes/redux/redux-config.php:2663
+msgid "Header Templates"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:438, zikzag/core/includes/redux/redux-config.php:2664
+msgid "dashboard tab."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:457, zikzag/core/includes/redux/redux-config.php:477, zikzag/core/includes/redux/redux-config.php:2812, zikzag/core/includes/redux/redux-config.php:2824, zikzag/core/includes/redux/redux-config.php:2848, zikzag/core/includes/redux/redux-config.php:2856, zikzag/core/includes/redux/redux-config.php:5556
+msgid "Menu"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:494
+msgid "Header Spacer 1 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:505
+msgid "Header Spacer 2 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:516
+msgid "Header Spacer 3 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:527
+msgid "Header Spacer 4 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:538
+msgid "Header Spacer 5 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:549
+msgid "Header Spacer 6 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:560
+msgid "Header Spacer 7 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:571
+msgid "Header Spacer 8 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:580
+msgid "Customize Search"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:587, zikzag/core/includes/redux/redux-config.php:649, zikzag/core/includes/redux/redux-config.php:1665, zikzag/core/includes/redux/redux-config.php:1696
+msgid "Icon Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:599, zikzag/core/includes/redux/redux-config.php:661
+msgid "Hover Icon Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:611
+msgid "Customize Sticky Search"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:618, zikzag/core/includes/redux/redux-config.php:680
+msgid "Sticky Icon Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:630, zikzag/core/includes/redux/redux-config.php:692
+msgid "Sticky Hover Icon Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:642
+msgid "Customize cart"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:673
+msgid "Customize Sticky cart"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:706, zikzag/core/includes/redux/redux-config.php:777, zikzag/core/includes/redux/redux-config.php:790, zikzag/core/includes/redux/redux-config.php:861, zikzag/core/includes/redux/redux-config.php:874, zikzag/core/includes/redux/redux-config.php:943, zikzag/core/includes/redux/redux-config.php:956, zikzag/core/includes/redux/redux-config.php:1027, zikzag/core/includes/redux/redux-config.php:1040, zikzag/core/includes/redux/redux-config.php:1111, zikzag/core/includes/redux/redux-config.php:1124, zikzag/core/includes/redux/redux-config.php:1194
+msgid "Delimiter Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:717, zikzag/core/includes/redux/redux-config.php:801, zikzag/core/includes/redux/redux-config.php:885, zikzag/core/includes/redux/redux-config.php:967, zikzag/core/includes/redux/redux-config.php:1051, zikzag/core/includes/redux/redux-config.php:1135
+msgid "Delimiter Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:726, zikzag/core/includes/redux/redux-config.php:761, zikzag/core/includes/redux/redux-config.php:810, zikzag/core/includes/redux/redux-config.php:845, zikzag/core/includes/redux/redux-config.php:894, zikzag/core/includes/redux/redux-config.php:929, zikzag/core/includes/redux/redux-config.php:976, zikzag/core/includes/redux/redux-config.php:1011, zikzag/core/includes/redux/redux-config.php:1060, zikzag/core/includes/redux/redux-config.php:1095, zikzag/core/includes/redux/redux-config.php:1144, zikzag/core/includes/redux/redux-config.php:1180
+msgid "Delimiter Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:744, zikzag/core/includes/redux/redux-config.php:828, zikzag/core/includes/redux/redux-config.php:912, zikzag/core/includes/redux/redux-config.php:994, zikzag/core/includes/redux/redux-config.php:1078, zikzag/core/includes/redux/redux-config.php:1163
+msgid "Delimiter Spacing"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:754, zikzag/core/includes/redux/redux-config.php:838, zikzag/core/includes/redux/redux-config.php:922, zikzag/core/includes/redux/redux-config.php:1004, zikzag/core/includes/redux/redux-config.php:1088, zikzag/core/includes/redux/redux-config.php:1173
+msgid "Customize Sticky Delimiter"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1204, zikzag/core/includes/redux/redux-config.php:1403
+msgid "Get Ticket"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1223, zikzag/core/includes/redux/redux-config.php:1422
+msgid "Button Size"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1225, zikzag/core/includes/redux/redux-config.php:1424
+msgid "Small"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1226, zikzag/core/includes/redux/redux-config.php:1425
+msgid "Medium"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1227, zikzag/core/includes/redux/redux-config.php:1426
+msgid "Large"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1228, zikzag/core/includes/redux/redux-config.php:1427
+msgid "Extra Large"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1236, zikzag/core/includes/redux/redux-config.php:1435
+msgid "Button Border Radius"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1238, zikzag/core/includes/redux/redux-config.php:1437
+msgid "Value in pixels."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1244, zikzag/core/includes/redux/redux-config.php:1443
+msgid "Customize Button"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1263, zikzag/core/includes/redux/redux-config.php:1462
+msgid "Hover Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1287, zikzag/core/includes/redux/redux-config.php:1486
+msgid "Hover Background Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1311, zikzag/core/includes/redux/redux-config.php:1510
+msgid "Hover Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1323, zikzag/core/includes/redux/redux-config.php:1522
+msgid "Customize Sticky Button"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1330, zikzag/core/includes/redux/redux-config.php:1529
+msgid "Sticky Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1342, zikzag/core/includes/redux/redux-config.php:1541
+msgid "Sticky Hover Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1354, zikzag/core/includes/redux/redux-config.php:1553
+msgid "Sticky Background Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1366, zikzag/core/includes/redux/redux-config.php:1565
+msgid "Sticky Hover Background Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1378, zikzag/core/includes/redux/redux-config.php:1577
+msgid "Sticky Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1390, zikzag/core/includes/redux/redux-config.php:1589
+msgid "Sticky Hover Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1602, zikzag/core/includes/redux/redux-config.php:2868
+msgid "HTML Element 1 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1610, zikzag/core/includes/redux/redux-config.php:2875
+msgid "HTML Element 2 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1618, zikzag/core/includes/redux/redux-config.php:2883
+msgid "HTML Element 3 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1626, zikzag/core/includes/redux/redux-config.php:2891
+msgid "HTML Element 4 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1634, zikzag/core/includes/redux/redux-config.php:2899
+msgid "HTML Element 5 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1642, zikzag/core/includes/redux/redux-config.php:2907
+msgid "HTML Element 6 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1650
+msgid "HTML Element 7 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1658
+msgid "HTML Element 8 Editor"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1677, zikzag/core/includes/redux/redux-config.php:1710
+msgid "Background Icon"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1689
+msgid "Customize Sticky Icon"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1724
+msgid "Header Top Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1731
+msgid "Full Width Header"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1732, zikzag/core/includes/redux/redux-config.php:1844, zikzag/core/includes/redux/redux-config.php:1952
+msgid "Set header content in full width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1738, zikzag/core/includes/redux/redux-config.php:1850, zikzag/core/includes/redux/redux-config.php:1958
+msgid "Customize Max Width Container"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1739, zikzag/core/includes/redux/redux-config.php:1851, zikzag/core/includes/redux/redux-config.php:1959
+msgid "Set max width container"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1760
+msgid "Header Top Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1768
+msgid "Header Top Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1773
+msgid "Header Top Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1784
+msgid "Header Top Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1785
+msgid "Set Top header text color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1796
+msgid "Set Header Top Bottom Border"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1804
+msgid "Header Top Border Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1817
+msgid "Header Top Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1836
+msgid "Header Middle Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1843
+msgid "Full Width Middle Header"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1870
+msgid "Header Middle Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1878
+msgid "Header Middle Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1883
+msgid "Header Middle Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1894
+msgid "Header Middle Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1895
+msgid "Set Middle header text color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1906
+msgid "Set Header Middle Bottom Border"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1914
+msgid "Header Middle Border Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1925
+msgid "Header Middle Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1944
+msgid "Header Bottom Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1951
+msgid "Full Width Bottom Header"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1978
+msgid "Header Bottom Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1986
+msgid "Header Bottom Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:1991
+msgid "Header Bottom Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2002
+msgid "Header Bottom Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2003
+msgid "Set Bottom header text color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2014
+msgid "Set Header Bottom Border"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2022
+msgid "Header Bottom Border Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2033
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2052
+msgid "Top Left Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2059, zikzag/core/includes/redux/redux-config.php:2103, zikzag/core/includes/redux/redux-config.php:2147, zikzag/core/includes/redux/redux-config.php:2191, zikzag/core/includes/redux/redux-config.php:2235, zikzag/core/includes/redux/redux-config.php:2279, zikzag/core/includes/redux/redux-config.php:2323, zikzag/core/includes/redux/redux-config.php:2367, zikzag/core/includes/redux/redux-config.php:2411, zikzag/core/includes/redux/redux-config.php:2455, zikzag/core/includes/redux/redux-config.php:2499
+msgid "Horizontal Align"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2070, zikzag/core/includes/redux/redux-config.php:2114, zikzag/core/includes/redux/redux-config.php:2158, zikzag/core/includes/redux/redux-config.php:2202, zikzag/core/includes/redux/redux-config.php:2246, zikzag/core/includes/redux/redux-config.php:2290, zikzag/core/includes/redux/redux-config.php:2334, zikzag/core/includes/redux/redux-config.php:2378, zikzag/core/includes/redux/redux-config.php:2422, zikzag/core/includes/redux/redux-config.php:2466, zikzag/core/includes/redux/redux-config.php:2510
+msgid "Vertical Align"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2073, zikzag/core/includes/redux/redux-config.php:2117, zikzag/core/includes/redux/redux-config.php:2161, zikzag/core/includes/redux/redux-config.php:2205, zikzag/core/includes/redux/redux-config.php:2249, zikzag/core/includes/redux/redux-config.php:2293, zikzag/core/includes/redux/redux-config.php:2337, zikzag/core/includes/redux/redux-config.php:2381, zikzag/core/includes/redux/redux-config.php:2425, zikzag/core/includes/redux/redux-config.php:2469, zikzag/core/includes/redux/redux-config.php:2513
+msgid "Middle"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2081, zikzag/core/includes/redux/redux-config.php:2125, zikzag/core/includes/redux/redux-config.php:2169, zikzag/core/includes/redux/redux-config.php:2213, zikzag/core/includes/redux/redux-config.php:2257, zikzag/core/includes/redux/redux-config.php:2301, zikzag/core/includes/redux/redux-config.php:2345, zikzag/core/includes/redux/redux-config.php:2389, zikzag/core/includes/redux/redux-config.php:2433, zikzag/core/includes/redux/redux-config.php:2477, zikzag/core/includes/redux/redux-config.php:2521
+msgid "Display"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2083, zikzag/core/includes/redux/redux-config.php:2127, zikzag/core/includes/redux/redux-config.php:2171, zikzag/core/includes/redux/redux-config.php:2215, zikzag/core/includes/redux/redux-config.php:2259, zikzag/core/includes/redux/redux-config.php:2303, zikzag/core/includes/redux/redux-config.php:2347, zikzag/core/includes/redux/redux-config.php:2391, zikzag/core/includes/redux/redux-config.php:2435, zikzag/core/includes/redux/redux-config.php:2479, zikzag/core/includes/redux/redux-config.php:2523
+msgid "Normal"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2084, zikzag/core/includes/redux/redux-config.php:2128, zikzag/core/includes/redux/redux-config.php:2172, zikzag/core/includes/redux/redux-config.php:2216, zikzag/core/includes/redux/redux-config.php:2260, zikzag/core/includes/redux/redux-config.php:2304, zikzag/core/includes/redux/redux-config.php:2348, zikzag/core/includes/redux/redux-config.php:2392, zikzag/core/includes/redux/redux-config.php:2436, zikzag/core/includes/redux/redux-config.php:2480, zikzag/core/includes/redux/redux-config.php:2524
+msgid "Grow"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2096, zikzag/core/includes/redux/redux-config.php:2140
+msgid "Top Center Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2184
+msgid "Top Right Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2228
+msgid "Middle Left Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2272, zikzag/core/includes/redux/redux-config.php:2316
+msgid "Middle Center Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2360
+msgid "Middle Right Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2404
+msgid "Bottom Left Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2448
+msgid "Bottom Center Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2492
+msgid "Bottom Right Column Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2543
+msgid "Header Bottom Shadow"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2549
+msgid "Over content"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2550
+msgid "Set Header preset to display over content."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2556
+msgid "Enable Lavalamp Marker"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2562
+msgid "Sub Menu Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2563
+msgid "Set sub menu background color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2574
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2575
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2582
+msgid "Sub Menu Bottom Border"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2590
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2599
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2611
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2630, zikzag/core/includes/redux/redux-config.php:2637
+msgid "Header Sticky"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2643
+msgid "Sticky Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2650
+msgid "Header Sticky Template"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2670, zikzag/core/includes/redux/redux-config.php:3009, zikzag/core/includes/redux/redux-config.php:3760, zikzag/core/includes/redux/redux-config.php:4048, zikzag/core/includes/redux/redux-config.php:4309, zikzag/core/includes/redux/redux-config.php:4541
+msgid "Appearance"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2672
+msgid "Always Visible"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2673
+msgid "Visible while scrolling upwards"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2689
+msgid "Header Mobile"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2696
+msgid "Custom Mobile Header "
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2702
+msgid "Mobile Header Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2714
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2722
+msgid "Mobile Sub Menu Background"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2734
+msgid "Mobile Sub Menu Overlay"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2746
+msgid "Mobile Sub Menu Text Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2756
+msgid "Mobile Height"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2769
+msgid "Mobile Over Content"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2775
+msgid "Custom Mobile Menu"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2781
+msgid "Mobile Menu"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2789
+msgid "Mobile Sticky"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2795
+msgid "Mobile Sub Menu Position"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2805
+msgid "Mobile Header Order"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2806, zikzag/core/includes/redux/redux-config.php:2841
+msgid "Organize the layout of the mobile header"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2840
+msgid "Mobile Drawer Content"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2915
+msgid "Spacer 1 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2928
+msgid "Spacer 2 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2939
+msgid "Spacer 3 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2950
+msgid "Spacer 4 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2961
+msgid "Spacer 5 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2972
+msgid "Spacer 6 Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:2994, zikzag/core/includes/redux/redux-config.php:3312, zikzag/core/includes/redux/redux-config.php:3566
+msgid "Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3001
+msgid "Use Page Title?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3016, zikzag/core/includes/redux/redux-config.php:4409, zikzag/core/includes/redux/redux-config.php:5871
+msgid "Use Background Image/Color?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3024, zikzag/core/includes/redux/redux-config.php:4417, zikzag/core/includes/redux/redux-config.php:4859, zikzag/core/includes/redux/redux-config.php:4868, zikzag/core/includes/redux/redux-config.php:5877
+msgid "Background Image/Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3091, zikzag/core/includes/redux/redux-config.php:3928
+msgid "Breadcrumbs"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3100, zikzag/core/includes/redux/redux-config.php:3795, zikzag/core/includes/redux/redux-config.php:3803, zikzag/core/includes/redux/redux-config.php:3811, zikzag/core/includes/redux/redux-config.php:3819, zikzag/core/includes/redux/redux-config.php:3835, zikzag/core/includes/redux/redux-config.php:3843, zikzag/core/includes/redux/redux-config.php:3851, zikzag/core/includes/redux/redux-config.php:3860, zikzag/core/includes/redux/redux-config.php:3869, zikzag/core/includes/redux/redux-config.php:3878, zikzag/core/includes/redux/redux-config.php:4072, zikzag/core/includes/redux/redux-config.php:4113, zikzag/core/includes/redux/redux-config.php:4121, zikzag/core/includes/redux/redux-config.php:4130, zikzag/core/includes/redux/redux-config.php:4139, zikzag/core/includes/redux/redux-config.php:4148, zikzag/core/includes/redux/redux-config.php:4157, zikzag/core/includes/redux/redux-config.php:4583
+msgid "Yes"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3101, zikzag/core/includes/redux/redux-config.php:3796, zikzag/core/includes/redux/redux-config.php:3804, zikzag/core/includes/redux/redux-config.php:3812, zikzag/core/includes/redux/redux-config.php:3820, zikzag/core/includes/redux/redux-config.php:3836, zikzag/core/includes/redux/redux-config.php:3844, zikzag/core/includes/redux/redux-config.php:3852, zikzag/core/includes/redux/redux-config.php:3861, zikzag/core/includes/redux/redux-config.php:3870, zikzag/core/includes/redux/redux-config.php:3879, zikzag/core/includes/redux/redux-config.php:4073, zikzag/core/includes/redux/redux-config.php:4114, zikzag/core/includes/redux/redux-config.php:4122, zikzag/core/includes/redux/redux-config.php:4131, zikzag/core/includes/redux/redux-config.php:4140, zikzag/core/includes/redux/redux-config.php:4149, zikzag/core/includes/redux/redux-config.php:4158, zikzag/core/includes/redux/redux-config.php:4584
+msgid "No"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3120
+msgid "Parallax Effect"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3126
+msgid "Parallax Speed"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3146, zikzag/core/includes/redux/redux-config.php:5426
+msgid "Typography"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3197
+msgid "Responsive"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3269
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3344, zikzag/core/includes/redux/redux-config.php:4968
+msgid "Page Select"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3370, zikzag/core/includes/redux/redux-config.php:3399
+msgid "Columns Layout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3440
+msgid "Full Width On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3453
+msgid "Footer Styling"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3481
+msgid "Content Align"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3507
+msgid "Headings color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3518
+msgid "Content color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3539
+msgid "Border color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3643
+msgid "Blog"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3685, zikzag/core/includes/redux/redux-config.php:3972, zikzag/core/includes/redux/redux-config.php:4466
+msgid "Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3691, zikzag/core/includes/redux/redux-config.php:4271, zikzag/core/includes/redux/redux-config.php:4472, zikzag/core/includes/redux/redux-config.php:5700
+msgid "Sidebar Layout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3711, zikzag/core/includes/redux/redux-config.php:4291, zikzag/core/includes/redux/redux-config.php:4492
+msgid "Sidebar Template"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3718, zikzag/core/includes/redux/redux-config.php:4297, zikzag/core/includes/redux/redux-config.php:4499
+msgid "Sidebar Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3729, zikzag/core/includes/redux/redux-config.php:4510
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3766, zikzag/core/includes/redux/redux-config.php:4315
+msgid "Columns in Archive"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3778, zikzag/core/includes/redux/redux-config.php:4080, zikzag/core/includes/redux/redux-config.php:4574
+msgid "Likes"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3786, zikzag/core/includes/redux/redux-config.php:4096, zikzag/core/includes/redux/redux-config.php:4566
+msgid "Shares"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3794
+msgid "Hide Media?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3802
+msgid "Hide Title?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3810
+msgid "Hide Content?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3818
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3827
+msgid "Limit amount of characters to be displayed."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3834
+msgid "Hide Read More Button?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3842, zikzag/core/includes/redux/redux-config.php:4112, zikzag/core/includes/redux/redux-config.php:4582
+msgid "Hide all post-meta?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3850, zikzag/core/includes/redux/redux-config.php:4120
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3859, zikzag/core/includes/redux/redux-config.php:4129
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3868, zikzag/core/includes/redux/redux-config.php:4138
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3877, zikzag/core/includes/redux/redux-config.php:4147
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3895, zikzag/core/includes/redux/redux-config.php:4360, zikzag/core/includes/redux/redux-config.php:4746, zikzag/core/includes/redux/redux-config.php:5815
+msgid "Single"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3902
+msgid "Default Post Layout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3903
+msgid "Note: each Post can be additionally customized within its Meta boxes section."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3920, zikzag/core/includes/redux/redux-config.php:4752, zikzag/core/includes/redux/redux-config.php:4843
+msgid "Page Title Text"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3958
+msgid "Note: this setting affects only the \"Overlay Image\" post layout."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3978
+msgid "Blog Single Sidebar Layout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:3998
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4006
+msgid "Blog Single Sidebar Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4017
+msgid "Blog Single Sticky Sidebar On?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4065
+msgid "Image To Replace On"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4071
+msgid "Apply Animation?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4088
+msgid "Views"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4104
+msgid "Author Info"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4156
+msgid "Hide tags?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4173, zikzag/core/includes/redux/redux-config.php:6012
+msgid "Related"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4194
+msgid "Select Categories"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4222
+msgid "Display items in the carousel"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4250
+msgid "Portfolio Slug"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4259
+msgid "Archive Page Title Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4301
+msgid "25%"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4302
+msgid "33%"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4335
+msgid "Content"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4367, zikzag/core/includes/redux/redux-config.php:5822
+msgid "Post Title Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4373, zikzag/core/includes/redux/redux-config.php:5828
+msgid "Post Title Text"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4547
+msgid "Content Alignment"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4590
+msgid "Post-meta author"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4599
+msgid "Post-meta comments"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4608
+msgid "Post-meta categories"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4617
+msgid "Post-meta date"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4651
+msgid "Related Projects"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4664
+msgid "Related Columns"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4688, zikzag/core/includes/redux/redux-config.php:4782
+msgid "Advanced Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4693
+msgid "Portfolio Archives"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4696, zikzag/core/includes/redux/redux-config.php:4716, zikzag/core/includes/redux/redux-config.php:4790, zikzag/core/includes/redux/redux-config.php:4810
+msgid "Disabled"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4700
+msgid "Archive pages list all the portfolio posts you have created. This option will disable only the post's archive page(s). The post's single view will still be displayed. Note: you will need to <a href=\"%s\">refresh your permalinks</a> after this option has been enabled."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4718
+msgid "By default, all portfolio posts have single views enabled. This creates a specific URL on your website for that post. Selecting \"Disabled\" will prevent the single view post being publicly displayed."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4735
+msgid "Team Slug"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4760
+msgid "Single Page Title Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4787
+msgid "Team Archives"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4794
+msgid "Archive pages list all the team posts you have created. This option will disable only the post's archive page(s). The post's single view will still be displayed. Note: you will need to <a href=\"%s\">refresh your permalinks</a> after this option has been enabled."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4807
+msgid "Team Single"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4812
+msgid "By default, all team posts have single views enabled. This creates a specific URL on your website for that post. Selecting \"Disabled\" will prevent the single view post being publicly displayed."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4823
+msgid "Page 404"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4829
+msgid "Page Title Section"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4852
+msgid "Custom Page Title Text"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4854
+msgid ""
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4915
+msgid "Header Section"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4923
+msgid "Footer Section"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4960
+msgid "Get Widgets"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:4961
+msgid "Get Pages"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5073
+msgid "Sidebars"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5081
+msgid "Add Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5082
+msgid "Register Sidebars"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5088
+msgid "Sidebar Page Settings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5168
+msgid "Social Shares"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5175
+msgid "Show Social Share on Pages On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5181
+msgid "Choose your share style."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5184
+msgid "Hovered"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5192
+msgid "Fixed Position On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5205
+msgid "Offset Top"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5206
+msgid "Measurement units defined as \"percents\" while position fixed is enabled, and as \"pixels\" while position is off."
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5213
+msgid "Facebook Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5220
+msgid "Twitter Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5227
+msgid "Linkedin Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5234
+msgid "Pinterest Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5241
+msgid "Tumblr Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5248
+msgid "Add Custom Share?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5256
+msgid "Custom Share Icon 1"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5262
+msgid "Custom Share Link 1"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5269
+msgid "Custom Share Icon 2"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5275
+msgid "Custom Share Link 2"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5282
+msgid "Custom Share Icon 3"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5288
+msgid "Custom Share Link 3"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5295
+msgid "Custom Share Icon 4"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5301
+msgid "Custom Share Link 4"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5308
+msgid "Custom Share Icon 5"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5314
+msgid "Custom Share Link 5"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5321
+msgid "Custom Share Icon 6"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5327
+msgid "Custom Share Link 6"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5334
+msgid "Custom Share Icon 7"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5340
+msgid "Custom Share Link 7"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5347
+msgid "Custom Share Icon 8"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5353
+msgid "Custom Share Link 8"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5360
+msgid "Custom Share Icon 9"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5366
+msgid "Custom Share Link 9"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5373
+msgid "Custom Share Icon 10"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5379
+msgid "Custom Share Link 10"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5390
+msgid "Color Options"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5397
+msgid "Primary Theme Color"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5436
+msgid "Content Font"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5454
+msgid "Headings Font"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5495
+msgid "Main Content"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5506
+msgid "Menu Font"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5521
+msgid "Submenu Font"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5568
+msgid "H1"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5578
+msgid "H2"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5588
+msgid "H3"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5598
+msgid "H4"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5608
+msgid "H5"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5618
+msgid "H6"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5650
+msgid "Headings"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5672
+msgid "Catalog"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5682
+msgid "Catalog Page Title Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5720
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5727
+msgid "Shop Sidebar Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5769
+msgid "Shop Column"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5781
+msgid "Products per page"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5790
+msgid "Use Animation Shop?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5797
+msgid "Animation Style"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5799
+msgid "Fade In"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5800
+msgid "Slide Top"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5801
+msgid "Slide Bottom"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5802
+msgid "Slide Left"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5803
+msgid "Slide Right"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5804
+msgid "Zoom"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5847
+msgid "Breadcrumbs Display"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5856
+msgid "Title Breadcrumbs Alignment"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5917
+msgid "Enable Border Top?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5939
+msgid "Shop Single Sidebar Layout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5959
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5966
+msgid "Shop Single Sidebar Width"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5977
+msgid "Shop Single Sticky Sidebar On?"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:5984
+msgid "Shop Single Sidebar Side Gap"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6003
+msgid "Share On/Off"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6019
+msgid "Related products column"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6031
+msgid "Related products per page"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6053
+msgid "Cart Page Title Background Image"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6068
+msgid "Checkout"
+msgstr ""
+
+#: zikzag/core/includes/redux/redux-config.php:6078
+msgid "Checkout Page Title Background Image"
+msgstr ""
