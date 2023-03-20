@@ -4686,7 +4686,7 @@ header.searсh-header .page-title span {
 }
 .blog-post.format-link .blog-post_link .link_post:before {
   content: "";
-  background-image: url(../img/link-icon.svg);
+  background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/img/link-icon.svg);
   background-size: cover;
   position: absolute;
   left: 0;
@@ -8829,15 +8829,15 @@ body .widget_nav_menu ul.menu > .menu-item-has-children .sub-menu .menu-item-has
   left: 0;
   right: 0;
 }
-.zikzag_banner-widget[style^="background-image: url(http"] .banner-widget_text_sub,
-.zikzag_banner-widget[style^="background-image: url(http"] .banner-widget_text {
+.zikzag_banner-widget[style^="background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/css/http"] .banner-widget_text_sub,
+.zikzag_banner-widget[style^="background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/css/http"] .banner-widget_text {
   color: #ffffff;
 }
-.zikzag_banner-widget[style^="background-image: url(http"] .banner-widget_button .button-read-more {
+.zikzag_banner-widget[style^="background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/css/http"] .banner-widget_button .button-read-more {
   color: #232323;
   background: #ffffff;
 }
-.zikzag_banner-widget[style^="background-image: url(http"] .banner-widget_link:hover ~ .banner-widget_button .button-read-more {
+.zikzag_banner-widget[style^="background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/css/http"] .banner-widget_link:hover ~ .banner-widget_button .button-read-more {
   color: #ffffff;
 }
 
@@ -16718,7 +16718,7 @@ body.new-elementor .elementor-section-boxed .elementor-container.elementor-colum
     padding-left: 25px;
     padding-right: 25px;
   }
-  .single-team .single_team_page .team-single_wrapper[style^="background-image: url(http"] {
+  .single-team .single_team_page .team-single_wrapper[style^="background-image: url(https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/css/http"] {
     margin-bottom: 40px;
   }
   .single-team .single_team_page .team-single_wrapper .team-image {
