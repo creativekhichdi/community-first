@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Patient Ninja	</title>
-	<atom:link href="https://creativekhichdi.github.io/community-first/product/patient-ninja/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creativekhichdi.github.io/community-first/product/patient-ninja/</link>
+	<atom:link href="http://creativekhichdi.github.io/community-first/product/patient-ninja/feed/" rel="self" type="application/rss+xml" />
+	<link>http://creativekhichdi.github.io/community-first/product/patient-ninja/</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:54:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Magnus		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-77</link>
+		<link>http://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-77</link>
 
 		<dc:creator><![CDATA[Magnus]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 12:04:03 +0000</pubDate>
@@ -37,7 +37,7 @@ If only it came in red as well!]]></description>
 		<item>
 		<title>
 		By: Cobus Bester		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-76</link>
+		<link>http://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-76</link>
 
 		<dc:creator><![CDATA[Cobus Bester]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 11:53:13 +0000</pubDate>
@@ -51,7 +51,7 @@ If only it came in red as well!]]></description>
 		<item>
 		<title>
 		By: James Koster		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-75</link>
+		<link>http://creativekhichdi.github.io/community-first/product/patient-ninja/#comment-75</link>
 
 		<dc:creator><![CDATA[James Koster]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 11:46:52 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Community First</title>
-	<atom:link href="https://creativekhichdi.github.io/community-first/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creativekhichdi.github.io/community-first</link>
+	<atom:link href="http://creativekhichdi.github.io/community-first/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://creativekhichdi.github.io/community-first</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:33:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://creativekhichdi.github.io/community-first/2023/03/03/hello-world/</link>
-					<comments>https://creativekhichdi.github.io/community-first/2023/03/03/hello-world/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/</link>
+					<comments>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 03 Mar 2023 06:33:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://creativekhichdi.github.io/community-first/?p=1</guid>
+		<guid isPermaLink="false">http://creativekhichdi.github.io/community-first/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/2023/03/03/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

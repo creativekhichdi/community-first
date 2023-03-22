@@ -9,8 +9,8 @@
 
 <channel>
 	<title>corporate &#8211; Community First</title>
-	<atom:link href="https://creativekhichdi.github.io/community-first/portfolio-category/corporate/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creativekhichdi.github.io/community-first</link>
+	<atom:link href="http://creativekhichdi.github.io/community-first/portfolio-category/corporate/feed/" rel="self" type="application/rss+xml" />
+	<link>http://creativekhichdi.github.io/community-first</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2023 10:14:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Brilliant Client Service</title>
-		<link>https://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/</link>
-					<comments>https://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/</link>
+					<comments>http://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Feb 2020 12:49:42 +0000</pubDate>
@@ -81,7 +81,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.11.2 - 22-02-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>					<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -93,7 +93,7 @@
 						<div class="elementor-element elementor-element-29944e8 elementor-widget elementor-widget-image" data-id="29944e8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -105,7 +105,7 @@
 						<div class="elementor-element elementor-element-60f7a1b elementor-widget elementor-widget-image" data-id="60f7a1b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -204,7 +204,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 				</div>
 				<div class="elementor-element elementor-element-bd065a7 elementor-widget elementor-widget-wgl-testimonials" data-id="bd065a7" data-element_type="widget" data-widget_type="wgl-testimonials.default">
 				<div class="elementor-widget-container">
-			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641a9d8087f41 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641aaa0ad6025 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -216,7 +216,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -228,7 +228,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -313,15 +313,15 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/portfolio/brilliant-client-service/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Partnership System</title>
-		<link>https://creativekhichdi.github.io/community-first/portfolio/partnership-system/</link>
-					<comments>https://creativekhichdi.github.io/community-first/portfolio/partnership-system/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/portfolio/partnership-system/</link>
+					<comments>http://creativekhichdi.github.io/community-first/portfolio/partnership-system/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Feb 2020 12:33:30 +0000</pubDate>
@@ -377,7 +377,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-81698bc elementor-widget elementor-widget-image" data-id="81698bc" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -389,7 +389,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-29944e8 elementor-widget elementor-widget-image" data-id="29944e8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -401,7 +401,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-60f7a1b elementor-widget elementor-widget-image" data-id="60f7a1b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -499,7 +499,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 				</div>
 				<div class="elementor-element elementor-element-bd065a7 elementor-widget elementor-widget-wgl-testimonials" data-id="bd065a7" data-element_type="widget" data-widget_type="wgl-testimonials.default">
 				<div class="elementor-widget-container">
-			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641a9d809f805 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641aaa0ae9834 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -511,7 +511,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -523,7 +523,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -608,15 +608,15 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/portfolio/partnership-system/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/portfolio/partnership-system/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New Business Innovation</title>
-		<link>https://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/</link>
-					<comments>https://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/</link>
+					<comments>http://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 25 Feb 2020 12:11:55 +0000</pubDate>
@@ -672,7 +672,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-81698bc elementor-widget elementor-widget-image" data-id="81698bc" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -684,7 +684,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-29944e8 elementor-widget elementor-widget-image" data-id="29944e8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -696,7 +696,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-60f7a1b elementor-widget elementor-widget-image" data-id="60f7a1b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -794,7 +794,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 				</div>
 				<div class="elementor-element elementor-element-bd065a7 elementor-widget elementor-widget-wgl-testimonials" data-id="bd065a7" data-element_type="widget" data-widget_type="wgl-testimonials.default">
 				<div class="elementor-widget-container">
-			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641a9d80af17a class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641aaa0b07f79 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -806,7 +806,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -818,7 +818,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -903,15 +903,15 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/portfolio/new-business-innovation/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Information Technology</title>
-		<link>https://creativekhichdi.github.io/community-first/portfolio/information-technology/</link>
-					<comments>https://creativekhichdi.github.io/community-first/portfolio/information-technology/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/portfolio/information-technology/</link>
+					<comments>http://creativekhichdi.github.io/community-first/portfolio/information-technology/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 23 Feb 2020 09:49:47 +0000</pubDate>
@@ -967,7 +967,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-81698bc elementor-widget elementor-widget-image" data-id="81698bc" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_01-1.jpg" class="attachment-full size-full wp-image-1013" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -979,7 +979,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-29944e8 elementor-widget elementor-widget-image" data-id="29944e8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_02-1.jpg" class="attachment-full size-full wp-image-1014" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -991,7 +991,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 						<div class="elementor-element elementor-element-60f7a1b elementor-widget elementor-widget-image" data-id="60f7a1b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="600" height="600" src="https://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
+												<img decoding="async" width="600" height="600" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/portfolio-single_03-1.jpg" class="attachment-full size-full wp-image-1015" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1089,7 +1089,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 				</div>
 				<div class="elementor-element elementor-element-bd065a7 elementor-widget elementor-widget-wgl-testimonials" data-id="bd065a7" data-element_type="widget" data-widget_type="wgl-testimonials.default">
 				<div class="elementor-widget-container">
-			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641a9d80bdef3 class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			<div  class="wgl-testimonials type-author_top acenter"><div class="wgl-carousel_wrapper"><div id=zikzag_carousel_641aaa0b1ad2e class="wgl-carousel"><div class="wgl-carousel_slick" data-slick='{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":false,"autoplaySpeed":"","speed":300,"arrows":true,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}},{"breakpoint":0,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -1101,7 +1101,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Emmy Barton photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Working with ZikZag is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Emmy Barton</h3><span class="wgl-testimonials_position">client of company</span></div></div></div></div><div class="wgl-testimonials-item_wrap"><div class="wgl-testimonials_item"><div class="content_wrap"><span class="quote_icon_svg"><svg viewBox="0 0 62.4 44.8">
 			<path class="st0" d="M40.8,30.6c-0.9,2.3-1.7,3.9-0.9,6.5c0.7,2.3,2.5,3.9,4.5,5.2c3.7,2.4,8.7,3.6,12.6,0.9
 				c3.8-2.5,5.8-7.3,4.4-11.7c-0.4-1.3-1.2-2.4-2.2-3.2c-2.1-3.2-6.1-4.5-9.9-4.3c-2.2,0.1-4.5,0.8-6.2,2.4c-0.6,0.6-1.1,1.2-1.6,2
 				c-0.2,0.4-0.6,1.4-0.8,2C40.7,30.7,40.6,31.3,40.8,30.6z"/>
@@ -1113,7 +1113,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 			<path class="st1" d="M8,36.2c-7.2-11.4,14.9-17.4,18.7-4.6c1.7,5.8-2.8,11.2-8.6,11.6c-3.9,0.2-7.6-1.4-10.5-4.1
 				C-5,27.4,4.5,10.5,14.7,1.3c0.7-0.7-0.3-1.7-1.1-1.1C5.2,7.9-2.9,19.6,1,31.5c2.8,8.4,12.2,16.1,21.3,12
 				c9.3-4.1,7.1-16.5-1.4-20.1c-8.5-3.5-20.1,4-14.3,13.4C7.2,37.8,8.5,37,8,36.2L8,36.2z"/>
-			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="https://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
+			</svg></span><div class="wgl-testimonials_image"><img decoding="async" src="http://creativekhichdi.github.io/community-first/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Tina Johanson photo"  style="width: 80px;"></div><div class="wgl-testimonials_quote">“Choosing online studies was the best way to do it – the internet is fast, cheap &amp; popular and it’s easy to communicate in social media with native speakers.”</div></div><div class="meta_wrap"><div class="name_wrap"><h3 class="wgl-testimonials_name">Tina Johanson</h3><span class="wgl-testimonials_position">UI Designer</span></div></div></div></div></div></div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1198,7 +1198,7 @@ We&#8217;re seeing an extreme rise in profitable growth from the clients that we
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/portfolio/information-technology/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/portfolio/information-technology/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

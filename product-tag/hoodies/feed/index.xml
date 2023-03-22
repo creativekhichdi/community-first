@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hoodies &#8211; Community First</title>
-	<atom:link href="https://creativekhichdi.github.io/community-first/product-tag/hoodies/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creativekhichdi.github.io/community-first</link>
+	<atom:link href="http://creativekhichdi.github.io/community-first/product-tag/hoodies/feed/" rel="self" type="application/rss+xml" />
+	<link>http://creativekhichdi.github.io/community-first</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:54:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Woo Ninja</title>
-		<link>https://creativekhichdi.github.io/community-first/product/woo-ninja-3/</link>
-					<comments>https://creativekhichdi.github.io/community-first/product/woo-ninja-3/#comments</comments>
+		<link>http://creativekhichdi.github.io/community-first/product/woo-ninja-3/</link>
+					<comments>http://creativekhichdi.github.io/community-first/product/woo-ninja-3/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 11:28:45 +0000</pubDate>
@@ -32,7 +32,7 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://creativekhichdi.github.io/community-first/product/woo-ninja-3/feed/</wfw:commentRss>
+					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/woo-ninja-3/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

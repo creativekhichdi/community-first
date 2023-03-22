@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: "Flaticon";
-    src: url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.eot");
-    src: url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.eot#iefix") format("embedded-opentype"),
-    url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.woff2") format("woff2"),
-    url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.woff") format("woff"),
-    url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.ttf") format("truetype"),
-    url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+    src: url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.eot");
+    src: url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.eot#iefix") format("embedded-opentype"),
+    url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.woff2") format("woff2"),
+    url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.woff") format("woff"),
+    url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.ttf") format("truetype"),
+    url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -18,7 +18,7 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family: "Flaticon";
-        src: url("https://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+        src: url("http://creativekhichdi.github.io/community-first/wp-content/themes/zikzag/fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
     }
 }
 

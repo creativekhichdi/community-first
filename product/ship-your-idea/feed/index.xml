@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Ship Your Idea	</title>
-	<atom:link href="https://creativekhichdi.github.io/community-first/product/ship-your-idea/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creativekhichdi.github.io/community-first/product/ship-your-idea/</link>
+	<atom:link href="http://creativekhichdi.github.io/community-first/product/ship-your-idea/feed/" rel="self" type="application/rss+xml" />
+	<link>http://creativekhichdi.github.io/community-first/product/ship-your-idea/</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:54:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: Stuart		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-72</link>
+		<link>http://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-72</link>
 
 		<dc:creator><![CDATA[Stuart]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 13:02:14 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		By: Cobus Bester		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-71</link>
+		<link>http://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-71</link>
 
 		<dc:creator><![CDATA[Cobus Bester]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 11:55:15 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		By: James Koster		</title>
-		<link>https://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-70</link>
+		<link>http://creativekhichdi.github.io/community-first/product/ship-your-idea/#comment-70</link>
 
 		<dc:creator><![CDATA[James Koster]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 11:43:13 +0000</pubDate>
