@@ -1,0 +1,10 @@
+2023-03-13T07:19:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-content\plugins\tiny-compress-images\src\vendor\tinify\Tinify\Client.php on line 107
+
+2023-03-13T07:39:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-content\plugins\tiny-compress-images\src\vendor\tinify\Tinify\Client.php on line 107
+
+2023-03-13T07:42:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-content\plugins\tiny-compress-images\src\vendor\tinify\Tinify\Client.php on line 107
+
+2023-03-13T07:46:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-content\plugins\tiny-compress-images\src\vendor\tinify\Tinify\Client.php on line 107
+
+2023-03-13T07:48:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-content\plugins\tiny-compress-images\src\vendor\tinify\Tinify\Client.php on line 107
+

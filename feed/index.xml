@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Community First</title>
-	<atom:link href="http://creativekhichdi.github.io/community-first/feed/" rel="self" type="application/rss+xml" />
-	<link>http://creativekhichdi.github.io/community-first</link>
+	<atom:link href="https://creativekhichdi.github.io/community_first/feed/" rel="self" type="application/rss+xml" />
+	<link>https://creativekhichdi.github.io/community_first</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:33:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2023/03/03/hello-world/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2023/03/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 03 Mar 2023 06:33:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://creativekhichdi.github.io/community-first/?p=1</guid>
+		<guid isPermaLink="false">https://creativekhichdi.github.io/community_first/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2023/03/03/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2023/03/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Delivering What Consumers Really Value</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/delivering-what-consumers-really-value-2/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/delivering-what-consumers-really-value-2/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/delivering-what-consumers-really-value-2/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/delivering-what-consumers-really-value-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:59:40 +0000</pubDate>
@@ -95,7 +95,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.11.2 - 22-02-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>					<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -107,7 +107,7 @@
 						<div class="elementor-element elementor-element-2dfb13e elementor-widget elementor-widget-image" data-id="2dfb13e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -119,7 +119,7 @@
 				<div class="elementor-element elementor-element-161e0ea elementor-widget elementor-widget-image" data-id="161e0ea" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-9dcdc94 elementor-widget elementor-widget-spacer" data-id="9dcdc94" data-element_type="widget" data-widget_type="spacer.default">
@@ -211,15 +211,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/delivering-what-consumers-really-value-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/delivering-what-consumers-really-value-2/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What Gets in the Way of Great Strategy?</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/what-gets-in-the-way-of-great-strategy/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/what-gets-in-the-way-of-great-strategy/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/what-gets-in-the-way-of-great-strategy/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/what-gets-in-the-way-of-great-strategy/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:58:02 +0000</pubDate>
@@ -267,7 +267,7 @@
 						<div class="elementor-element elementor-element-dff5960 elementor-widget elementor-widget-image" data-id="dff5960" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -279,7 +279,7 @@
 						<div class="elementor-element elementor-element-653d98d elementor-widget elementor-widget-image" data-id="653d98d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -291,7 +291,7 @@
 				<div class="elementor-element elementor-element-1ba3175 elementor-widget elementor-widget-image" data-id="1ba3175" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-42bd7e7 elementor-widget elementor-widget-spacer" data-id="42bd7e7" data-element_type="widget" data-widget_type="spacer.default">
@@ -382,15 +382,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/what-gets-in-the-way-of-great-strategy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/what-gets-in-the-way-of-great-strategy/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>When Sustainability Requires Change</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/when-sustainability-requires-change-2/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/when-sustainability-requires-change-2/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/when-sustainability-requires-change-2/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/when-sustainability-requires-change-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:37:56 +0000</pubDate>
@@ -438,7 +438,7 @@
 						<div class="elementor-element elementor-element-12b2acd elementor-widget elementor-widget-image" data-id="12b2acd" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -450,7 +450,7 @@
 						<div class="elementor-element elementor-element-e81470d elementor-widget elementor-widget-image" data-id="e81470d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -462,7 +462,7 @@
 				<div class="elementor-element elementor-element-ca80fd6 elementor-widget elementor-widget-image" data-id="ca80fd6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-fd5c9db elementor-widget elementor-widget-spacer" data-id="fd5c9db" data-element_type="widget" data-widget_type="spacer.default">
@@ -553,15 +553,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/when-sustainability-requires-change-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/when-sustainability-requires-change-2/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Disappointing Reality of Sustainability Efforts</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:34:54 +0000</pubDate>
@@ -609,7 +609,7 @@
 						<div class="elementor-element elementor-element-82f1265 elementor-widget elementor-widget-image" data-id="82f1265" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -621,7 +621,7 @@
 						<div class="elementor-element elementor-element-82658e9 elementor-widget elementor-widget-image" data-id="82658e9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -633,7 +633,7 @@
 				<div class="elementor-element elementor-element-9fbf66a elementor-widget elementor-widget-image" data-id="9fbf66a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4bfc36a elementor-widget elementor-widget-spacer" data-id="4bfc36a" data-element_type="widget" data-widget_type="spacer.default">
@@ -724,15 +724,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/the-disappointing-reality-of-sustainability-efforts/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A New Age for Trade &#038; Supply Chain Finance</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:31:10 +0000</pubDate>
@@ -780,7 +780,7 @@
 						<div class="elementor-element elementor-element-382997d elementor-widget elementor-widget-image" data-id="382997d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -792,7 +792,7 @@
 						<div class="elementor-element elementor-element-fd2ad9d elementor-widget elementor-widget-image" data-id="fd2ad9d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -804,7 +804,7 @@
 				<div class="elementor-element elementor-element-a530a8e elementor-widget elementor-widget-image" data-id="a530a8e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-5133121 elementor-widget elementor-widget-spacer" data-id="5133121" data-element_type="widget" data-widget_type="spacer.default">
@@ -895,15 +895,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/a-new-age-for-trade-supply-chain-finance-2/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Getting Teamwork Right at the Top</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top-2/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top-2/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top-2/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:30:36 +0000</pubDate>
@@ -951,7 +951,7 @@
 						<div class="elementor-element elementor-element-5b41cac elementor-widget elementor-widget-image" data-id="5b41cac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -963,7 +963,7 @@
 						<div class="elementor-element elementor-element-72e8046 elementor-widget elementor-widget-image" data-id="72e8046" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -975,7 +975,7 @@
 				<div class="elementor-element elementor-element-aea34d8 elementor-widget elementor-widget-image" data-id="aea34d8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-8a7d24a elementor-widget elementor-widget-spacer" data-id="8a7d24a" data-element_type="widget" data-widget_type="spacer.default">
@@ -1066,15 +1066,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top-2/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Getting Teamwork Right at the Top</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:25:34 +0000</pubDate>
@@ -1122,7 +1122,7 @@
 						<div class="elementor-element elementor-element-b05d3ea elementor-widget elementor-widget-image" data-id="b05d3ea" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1134,7 +1134,7 @@
 						<div class="elementor-element elementor-element-a509cbe elementor-widget elementor-widget-image" data-id="a509cbe" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1146,7 +1146,7 @@
 				<div class="elementor-element elementor-element-409f320 elementor-widget elementor-widget-image" data-id="409f320" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0befe5d elementor-widget elementor-widget-spacer" data-id="0befe5d" data-element_type="widget" data-widget_type="spacer.default">
@@ -1237,15 +1237,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/getting-teamwork-right-at-the-top/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/getting-teamwork-right-at-the-top/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Automation Nation:  Whose Job Is Next?</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/automation-nation-whose-job-is-next/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/automation-nation-whose-job-is-next/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/automation-nation-whose-job-is-next/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/automation-nation-whose-job-is-next/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:10:53 +0000</pubDate>
@@ -1293,7 +1293,7 @@
 						<div class="elementor-element elementor-element-3e0f4d2 elementor-widget elementor-widget-image" data-id="3e0f4d2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1305,7 +1305,7 @@
 						<div class="elementor-element elementor-element-8beed00 elementor-widget elementor-widget-image" data-id="8beed00" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1317,7 +1317,7 @@
 				<div class="elementor-element elementor-element-d43b17d elementor-widget elementor-widget-image" data-id="d43b17d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-506d081 elementor-widget elementor-widget-spacer" data-id="506d081" data-element_type="widget" data-widget_type="spacer.default">
@@ -1408,15 +1408,15 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/automation-nation-whose-job-is-next/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/automation-nation-whose-job-is-next/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>For the Wealthy, Work Is the New Retirement</title>
-		<link>http://creativekhichdi.github.io/community-first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/</link>
-					<comments>http://creativekhichdi.github.io/community-first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/</link>
+					<comments>https://creativekhichdi.github.io/community_first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 24 Feb 2020 13:00:58 +0000</pubDate>
@@ -1464,7 +1464,7 @@
 						<div class="elementor-element elementor-element-3243d36 elementor-widget elementor-widget-image" data-id="3243d36" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_01-1.jpg" class="attachment-full size-full wp-image-794" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1476,7 +1476,7 @@
 						<div class="elementor-element elementor-element-2ccbafa elementor-widget elementor-widget-image" data-id="2ccbafa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="700" height="583" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
+												<img decoding="async" width="700" height="583" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_02-1.jpg" class="attachment-full size-full wp-image-795" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1488,7 +1488,7 @@
 				<div class="elementor-element elementor-element-23a4d18 elementor-widget elementor-widget-image" data-id="23a4d18" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="870" height="350" src="http://creativekhichdi.github.io/community-first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
+												<img decoding="async" width="870" height="350" src="https://creativekhichdi.github.io/community_first/wp-content/uploads/2020/02/blog-single_03-1.jpg" class="attachment-full size-full wp-image-811" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-8435491 elementor-widget elementor-widget-spacer" data-id="8435491" data-element_type="widget" data-widget_type="spacer.default">
@@ -1579,7 +1579,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/2020/02/24/for-the-wealthy-work-is-the-new-retirement/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

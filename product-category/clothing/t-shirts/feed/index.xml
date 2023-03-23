@@ -9,8 +9,8 @@
 
 <channel>
 	<title>T-shirts &#8211; Community First</title>
-	<atom:link href="http://creativekhichdi.github.io/community-first/product-category/clothing/t-shirts/feed/" rel="self" type="application/rss+xml" />
-	<link>http://creativekhichdi.github.io/community-first</link>
+	<atom:link href="https://creativekhichdi.github.io/community_first/product-category/clothing/t-shirts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://creativekhichdi.github.io/community_first</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Mar 2023 06:54:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Happy Ninja</title>
-		<link>http://creativekhichdi.github.io/community-first/product/happy-ninja/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/happy-ninja/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/happy-ninja/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/happy-ninja/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:53:15 +0000</pubDate>
@@ -32,15 +32,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/happy-ninja/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/happy-ninja/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Woo Ninja</title>
-		<link>http://creativekhichdi.github.io/community-first/product/woo-ninja/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/woo-ninja/#respond</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/woo-ninja/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/woo-ninja/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:52:06 +0000</pubDate>
@@ -50,15 +50,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/woo-ninja/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/woo-ninja/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ninja Silhouette</title>
-		<link>http://creativekhichdi.github.io/community-first/product/ninja-silhouette/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/ninja-silhouette/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/ninja-silhouette/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/ninja-silhouette/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:49:51 +0000</pubDate>
@@ -68,15 +68,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/ninja-silhouette/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/ninja-silhouette/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ship Your Idea</title>
-		<link>http://creativekhichdi.github.io/community-first/product/ship-your-idea/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/ship-your-idea/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/ship-your-idea/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/ship-your-idea/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:46:01 +0000</pubDate>
@@ -86,15 +86,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/ship-your-idea/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/ship-your-idea/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Premium Quality</title>
-		<link>http://creativekhichdi.github.io/community-first/product/premium-quality/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/premium-quality/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/premium-quality/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/premium-quality/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:41:52 +0000</pubDate>
@@ -104,15 +104,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/premium-quality/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/premium-quality/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Woo Logo</title>
-		<link>http://creativekhichdi.github.io/community-first/product/woo-logo/</link>
-					<comments>http://creativekhichdi.github.io/community-first/product/woo-logo/#comments</comments>
+		<link>https://creativekhichdi.github.io/community_first/product/woo-logo/</link>
+					<comments>https://creativekhichdi.github.io/community_first/product/woo-logo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jun 2013 10:35:51 +0000</pubDate>
@@ -122,7 +122,7 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://creativekhichdi.github.io/community-first/product/woo-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://creativekhichdi.github.io/community_first/product/woo-logo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

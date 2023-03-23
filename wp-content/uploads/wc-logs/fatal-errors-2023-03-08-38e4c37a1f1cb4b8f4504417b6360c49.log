@@ -1,0 +1,2 @@
+2023-03-08T05:39:09+00:00 CRITICAL Out of memory (allocated 83886080 bytes) (tried to allocate 20480 bytes) in C:\new-xampp\htdocs\Community-first\wp-includes\class-wpdb.php on line 2153
+

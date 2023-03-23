@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Team &#8211; Community First</title>
-	<atom:link href="http://creativekhichdi.github.io/community-first/team/feed/" rel="self" type="application/rss+xml" />
-	<link>http://creativekhichdi.github.io/community-first</link>
+	<atom:link href="https://creativekhichdi.github.io/community_first/team/feed/" rel="self" type="application/rss+xml" />
+	<link>https://creativekhichdi.github.io/community_first</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Mar 2023 09:57:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Marry Clarins</title>
-		<link>http://creativekhichdi.github.io/community-first/team/marry-clarins/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/marry-clarins/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:38:50 +0000</pubDate>
@@ -242,7 +242,7 @@
 			</item>
 		<item>
 		<title>Nick Davis</title>
-		<link>http://creativekhichdi.github.io/community-first/team/nick-davis/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/nick-davis/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:37:54 +0000</pubDate>
@@ -460,7 +460,7 @@
 			</item>
 		<item>
 		<title>Kate White</title>
-		<link>http://creativekhichdi.github.io/community-first/team/kate-white/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/kate-white/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:30:54 +0000</pubDate>
@@ -678,7 +678,7 @@
 			</item>
 		<item>
 		<title>Chriss Moore</title>
-		<link>http://creativekhichdi.github.io/community-first/team/chriss-moore/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/chriss-moore/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:29:45 +0000</pubDate>
@@ -896,7 +896,7 @@
 			</item>
 		<item>
 		<title>Nina Helton</title>
-		<link>http://creativekhichdi.github.io/community-first/team/nina-helton/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/nina-helton/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:28:25 +0000</pubDate>
@@ -1114,7 +1114,7 @@
 			</item>
 		<item>
 		<title>Clare Gordon</title>
-		<link>http://creativekhichdi.github.io/community-first/team/clare-gordon/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/clare-gordon/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:26:44 +0000</pubDate>
@@ -1332,7 +1332,7 @@
 			</item>
 		<item>
 		<title>James Anderson</title>
-		<link>http://creativekhichdi.github.io/community-first/team/james-anderson/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/james-anderson/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Feb 2020 09:24:04 +0000</pubDate>
@@ -1549,7 +1549,7 @@
 			</item>
 		<item>
 		<title>Luciana Batista</title>
-		<link>http://creativekhichdi.github.io/community-first/team/luciana-batista/</link>
+		<link>https://creativekhichdi.github.io/community_first/team/luciana-batista/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 15 Feb 2020 08:50:36 +0000</pubDate>

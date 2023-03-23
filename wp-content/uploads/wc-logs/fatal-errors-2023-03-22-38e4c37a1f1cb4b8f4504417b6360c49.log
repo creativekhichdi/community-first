@@ -1,0 +1,14 @@
+2023-03-22T06:07:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 484
+
+2023-03-22T10:14:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T10:23:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T10:34:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T10:42:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T11:07:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T11:08:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\new-xampp\htdocs\Community-first\wp-includes\Requests\Transport\cURL.php on line 484
+
